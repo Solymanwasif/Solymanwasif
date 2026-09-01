@@ -1,153 +1,102 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Solyman%20Wasif&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Frontend%20Developer%20%7C%20Learner%20%7C%20Builder&descAlignY=62&descSize=16&animation=fadeIn" alt="Header banner: Solyman Wasif — Frontend Developer, Learner, Builder" />
-
-<br>
-
-## About Me
-
-I'm a **beginner developer** focused on **frontend development** — currently learning React and Node.js, building small projects, and preparing myself for real-world development work.
-
-I enjoy full-stack concepts, but frontend is where I spend most of my energy and interest.
-
-- 🔭 Learning React & Node.js
-- 🎯 Working toward being job / internship ready
-- 🧩 Prefer understanding *why* something works over memorizing *how*
-- 🤖 Use AI as a thinking partner, not a shortcut
-
-> **Think critically. Solve creatively. Keep learning.**
-
-<br>
-
-## Currently Learning
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**⚛️ React**
-Components · JSX (+ TypeScript) · Props · Conditional & list rendering · Event handling · State · Re-rendering · `useState` · `useEffect` · Fetch & async/await · React Suspense · Data fetching · Vite · Thinking in React
-
-</td>
-<td valign="top" width="50%">
-
-**🟢 Node.js**
-Just getting started — early stage of learning the fundamentals.
-
-</td>
-</tr>
-</table>
-
-*Still learning both — not claiming mastery, just showing consistent progress.*
-
-<br>
-
-## Tech Stack
-
-**Core focus — frontend**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" alt="HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS icons" />
-
-**Currently learning**
-
-<img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js icon" />
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,npm" alt="VS Code, Git, GitHub, Figma, npm icons" />
-
-<br>
-
-## Learning Roadmap
-
-| Stage | Technology |
-|---|---|
-| ✅ Learned | HTML, CSS, JavaScript, TypeScript |
-| 🔄 Currently learning | React, Node.js |
-| 🗺️ Upcoming | SVG, Tailwind CSS, Next.js, Express.js, MongoDB, Mongoose, Better Auth |
-
-This roadmap reflects where I actually am — not where I plan to be.
-
-<br>
-
-## Featured Project
-
-### 🌐 DEVCONF 2026
-
-A conference-themed frontend website, built to practice structuring a real multi-section page.
-
-**Sections:** Navigation · Hero · Speakers · Schedule · Pricing · Footer
-**Built with:** HTML · CSS · Basic JavaScript
-
-**[→ View Repository](https://github.com/Solymanwasif/b14-a1-ai-css-enhancement/tree/main)**
-
-<br>
-
-## Other Project
-
-### 🛒 Nature's Platter
-
-A grocery / e-commerce style frontend project, focused on responsive layout.
-
-**Focus:** Responsive design · Tailwind CSS
-
-<br>
-
-## Achievements
-
-- ✅ Completed **4 Programming Hero course assignments**
-- 🎯 Scored **60/60** on all four
-
-A learning milestone, not a certification — but a good marker of consistency.
-
-<br>
-
-## AI & My Learning Approach
-
-I use AI as part of how I learn — not as a replacement for learning.
-
-I try to build things myself and understand the underlying concept first. AI helps me:
-
-- discuss a problem before jumping to a solution
-- explore different approaches
-- understand concepts I'm stuck on
-- find creative, alternative solutions
-
-I'm not an AI engineer, and that's not my current direction — AI is simply a tool in my workflow right now.
-
-<br>
-
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=solymanwasif&show_icons=true&theme=dark&hide_border=true&hide_title=true&count_private=true" alt="Solyman Wasif's GitHub stats" width="100%" />
-
-I'm not a high-activity GitHub user yet — that's something I'm actively working on improving.
-
-<br>
-
-## Goals
-
-- Become job / internship ready
-- Gain real, hands-on development experience
-- Keep learning consistently
-- Keep thinking critically and solving problems creatively
-
-<br>
-
-## Gaming (fun fact)
-
-Outside of code, I'm a gamer.
-
-**Favorite game:** Free Fire
-**Genres I gravitate toward:** Open-world · Story-driven · Strategy
-
-<br>
-
-## Contact
-
-<a href="mailto:reonsolymanwasif@gmail.com"><img src="https://img.shields.io/badge/Email-reonsolymanwasif%40gmail.com-2b2b2b?style=flat-square&logo=gmail&logoColor=white" alt="Email: reonsolymanwasif@gmail.com" /></a>
-<a href="https://github.com/Solymanwasif"><img src="https://img.shields.io/badge/GitHub-solymanwasif-2b2b2b?style=flat-square&logo=github&logoColor=white" alt="GitHub: solymanwasif" /></a>
-
-<br>
-
-<p><em>Thanks for reading this far — always open to connecting on interesting projects.</em></p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" alt="" />
+<svg width="900" height="170" viewBox="0 0 900 170" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-label="Solyman Wasif — Frontend Dev — animated status: Learning React and Node.js, Building Small Projects, Think Critically Solve Creatively, Always Leveling Up" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo2YzY5MjAzMC1lNzE2LTQ4YmQtODllZi1mMGJmZTA1NGNiNmUAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaIGsrEj++5Nf7K6yCxu9T/0AAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDoxZjEzNjM5ZS05Y2ZjLTQ0OTYtYWVkNy1hMzMwNjdmZjhkMDdscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNovG6pD20UR8ZO21OgVA1WBQAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggKi9GJmRg+49zHFA8+p3DjMZ9NSOMYTpuhghce5K9nbykZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaPyDL3+SjZn7wUPzlVjNMnUAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIGo6XCPSsneG1v6WvuB1fD+iRVdmZ0zpwE1/J5zwxaU0ZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GQF4Zmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjZjNjkyMDMwLWU3MTYtNDhiZC04OWVmLWYwYmZlMDU0Y2I2ZS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjE5YzMxNzhhLWJiZDktNGEwYS05MDIxLWEzNjk4YmUxOTMyYXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCAqL0YmZGD7j3McUDz6ncOMxn01I4xhOm6GCFx7kr2dvKJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFgg7Hl0V0WqpbuUHMAA0l1ex5X2SWJB/THvwG2dm1NnWi6iY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggY+AK9gtpzwwYTr1y0Teveb7DpsJFtbDwg5vEA0gVBwl0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQLfoz3DXAvt+Nw3rmFitraskSLtZl04tz1PJJWzRK9Al7tQq+5vmzBx6FZcleudUssAnKVgzg0/SiLO3D64ircc=</c2pa:manifest></metadata>
+
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"  stop-color="#0f0c29"/>
+      <stop offset="50%" stop-color="#302b63"/>
+      <stop offset="100%" stop-color="#24243e"/>
+    </linearGradient>
+
+    <filter id="softGlow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="1.4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <line x1="0" y1="0" x2="4" y2="0" stroke="#5EEBD4" stroke-width="0.5" opacity="0.05"/>
+    </pattern>
+
+    <!-- one reveal-window per cycling phrase; width animates 0 -> full -> 0 -->
+    <clipPath id="clipP1"><rect id="revP1" x="64" y="90" width="0" height="30"/></clipPath>
+    <clipPath id="clipP2"><rect id="revP2" x="64" y="90" width="0" height="30"/></clipPath>
+    <clipPath id="clipP3"><rect id="revP3" x="64" y="90" width="0" height="30"/></clipPath>
+    <clipPath id="clipP4"><rect id="revP4" x="64" y="90" width="0" height="30"/></clipPath>
+  </defs>
+
+  <!-- panel -->
+  <rect x="8" y="8" width="884" height="154" rx="16" fill="url(#bgGrad)"/>
+  <rect x="8" y="8" width="884" height="154" rx="16" fill="url(#scan)"/>
+  <rect x="8" y="8" width="884" height="154" rx="16" fill="none" stroke="#5EEBD4" stroke-opacity="0.28" stroke-width="1"/>
+
+  <!-- invisible clock: every other animation times itself off this repeating cycle -->
+  <animate id="clock" attributeName="opacity" values="1;1" dur="10.1s" begin="0s" repeatCount="indefinite"/>
+
+  <!-- HUD corner brackets -->
+  <g stroke="#FFB454" stroke-width="2.5" stroke-linecap="round" fill="none" opacity="0.75">
+    <path d="M 10 26 L 10 10 L 26 10"/>
+    <path d="M 874 10 L 890 10 L 890 26"/>
+    <path d="M 890 144 L 890 160 L 874 160"/>
+    <path d="M 26 160 L 10 160 L 10 144"/>
+  </g>
+
+  <!-- name plate row -->
+  <text x="40" y="52" font-family="JetBrains Mono, Fira Code, DejaVu Sans Mono, Consolas, monospace"
+        font-size="23" font-weight="700" fill="#5EEBD4" filter="url(#softGlow)">SOLYMAN WASIF</text>
+  <text x="860" y="50" text-anchor="end" font-family="JetBrains Mono, Fira Code, DejaVu Sans Mono, Consolas, monospace"
+        font-size="13" font-weight="600" fill="#FFB454" letter-spacing="0.5">[FRONTEND DEV]</text>
+
+  <!-- divider -->
+  <line x1="40" y1="68" x2="860" y2="68" stroke="#5EEBD4" stroke-opacity="0.25" stroke-width="1"/>
+
+  <!-- status prompt -->
+  <text x="40" y="112" font-family="JetBrains Mono, Fira Code, DejaVu Sans Mono, Consolas, monospace"
+        font-size="22" font-weight="600" fill="#5EEBD4" opacity="0.85">&gt;</text>
+
+  <!-- Phrase 1: "Learning React & Node.js"  |  types 0.00-0.60s, deletes 1.90-2.25s -->
+  <g clip-path="url(#clipP1)">
+    <text x="64" y="112" font-family="JetBrains Mono, Fira Code, DejaVu Sans Mono, Consolas, monospace"
+          font-size="22" font-weight="600" fill="#5EEBD4" filter="url(#softGlow)">Learning React &amp; Node.js</text>
+    <rect x="396" y="90" width="3" height="26" fill="#5EEBD4">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.4;0.5;0.9;1" dur="1s" begin="0s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <animate xlink:href="#revP1" attributeName="width" values="0;345" begin="clock.begin+0.00s" dur="0.6s" fill="freeze"/>
+  <animate xlink:href="#revP1" attributeName="width" values="345;0" begin="clock.begin+1.90s" dur="0.35s" fill="freeze"/>
+
+  <!-- Phrase 2: "Building Small Projects"  |  types 2.50-3.05s, deletes 4.35-4.70s -->
+  <g clip-path="url(#clipP2)">
+    <text x="64" y="112" font-family="JetBrains Mono, Fira Code, DejaVu Sans Mono, Consolas, monospace"
+          font-size="22" font-weight="600" fill="#5EEBD4" filter="url(#softGlow)">Building Small Projects</text>
+    <rect x="381" y="90" width="3" height="26" fill="#5EEBD4">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.4;0.5;0.9;1" dur="1s" begin="0s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <animate xlink:href="#revP2" attributeName="width" values="0;330" begin="clock.begin+2.50s" dur="0.55s" fill="freeze"/>
+  <animate xlink:href="#revP2" attributeName="width" values="330;0" begin="clock.begin+4.35s" dur="0.35s" fill="freeze"/>
+
+  <!-- Phrase 3: "Think Critically. Solve Creatively."  |  types 4.95-5.75s, deletes 7.05-7.55s -->
+  <g clip-path="url(#clipP3)">
+    <text x="64" y="112" font-family="JetBrains Mono, Fira Code, DejaVu Sans Mono, Consolas, monospace"
+          font-size="22" font-weight="600" fill="#5EEBD4" filter="url(#softGlow)">Think Critically. Solve Creatively.</text>
+    <rect x="546" y="90" width="3" height="26" fill="#5EEBD4">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.4;0.5;0.9;1" dur="1s" begin="0s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <animate xlink:href="#revP3" attributeName="width" values="0;495" begin="clock.begin+4.95s" dur="0.8s" fill="freeze"/>
+  <animate xlink:href="#revP3" attributeName="width" values="495;0" begin="clock.begin+7.05s" dur="0.5s" fill="freeze"/>
+
+  <!-- Phrase 4: "Always Leveling Up"  |  types 7.80-8.25s, deletes 9.55-9.85s -->
+  <g clip-path="url(#clipP4)">
+    <text x="64" y="112" font-family="JetBrains Mono, Fira Code, DejaVu Sans Mono, Consolas, monospace"
+          font-size="22" font-weight="600" fill="#5EEBD4" filter="url(#softGlow)">Always Leveling Up</text>
+    <rect x="316" y="90" width="3" height="26" fill="#5EEBD4">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.4;0.5;0.9;1" dur="1s" begin="0s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <animate xlink:href="#revP4" attributeName="width" values="0;265" begin="clock.begin+7.80s" dur="0.45s" fill="freeze"/>
+  <animate xlink:href="#revP4" attributeName="width" values="265;0" begin="clock.begin+9.55s" dur="0.3s" fill="freeze"/>
+
+</svg>
