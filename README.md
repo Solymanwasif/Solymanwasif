@@ -1,111 +1,128 @@
-<img src="dev-hud-banner.svg" width="100%" alt="Solyman Wasif — Frontend Developer, animated status banner" /> <br>
-About Me
+<div align="center">
 
-I'm a beginner developer focused on frontend development — currently learning React and Node.js, building small projects, and preparing myself for real-world development work.
+# Hi, I'm Solyman Wasif 👋
 
-I enjoy full-stack concepts, but frontend is where I spend most of my energy and interest.
+### Frontend-focused developer, currently learning React & Node.js
 
-🔭 Learning React & Node.js
-🎯 Working toward being job / internship ready
-🧩 Prefer understanding why something works over memorizing how
-🤖 Use AI as a thinking partner, not a shortcut
+I build things, break things, fix things — and enjoy the "figuring it out" part more than anything.
 
-Think critically. Solve creatively. Keep learning.
+[![Email](https://img.shields.io/badge/Email-reonsolymanwasif%40gmail.com-D97757?style=flat&logo=gmail&logoColor=white)](mailto:reonsolymanwasif@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-solymanwasif-181717?style=flat&logo=github&logoColor=white)](https://github.com/solymanwasif)
 
-<br>
-Currently Learning
-<table> <tr> <td valign="top" width="50%">
-
-React Fundamentals · Components · JSX (+ TypeScript) · Props · Conditional & list rendering · Vite · Event handling · State · Re-rendering · useState · Fetch & async/await · React Suspense · Data fetching · useEffect · Thinking in React
-
-</td> <td valign="top" width="50%">
-
-Node.js Just getting started — early stage of learning the fundamentals.
-
-</td> </tr> </table>
-
-Still learning both — not claiming mastery, just showing consistent progress.
+</div>
 
 <br>
-Tech Stack
 
-Core focus — frontend
+## About Me
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" alt="HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS icons" />
+I'm a beginner developer building my way toward a career in **frontend development**. My path so far: HTML → CSS → JavaScript → TypeScript, and now I'm working through **React** and **Node.js**.
 
-Currently learning
+I care more about *understanding why something works* than memorizing syntax — which is why I lean into critical thinking and enjoy exploring a few different approaches before settling on one.
 
-<img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js icon" />
+> **Think critically. Solve creatively. Keep learning.**
 
-Tools
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,npm" alt="VS Code, Git, GitHub, Figma, npm icons" /> <br>
-Learning Roadmap
-Stage	Technology
-Learned	HTML, CSS, JavaScript, TypeScript
-Currently learning	React, Node.js
-Upcoming	SVG, Tailwind CSS, Next.js, Express.js, MongoDB, Mongoose, Better Auth
-
-This roadmap reflects where I actually am — not where I plan to be.
+Right now, my goal is simple: get good enough to be genuinely useful on a team, and land an internship or junior role where I can learn how professional development actually works.
 
 <br>
-Featured Project
 
-DEVCONF 2026
+## 🎯 Currently Learning
 
-A conference-themed frontend website, built to practice structuring a real multi-section page.
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
+</p>
 
-Sections: Navigation · Hero · Speakers · Schedule · Pricing · Footer Built with: HTML · CSS · Basic JavaScript
-
-View Repository →
-
-<br>
-Other Project
-
-Nature's Platter
-
-A grocery / e-commerce style frontend project, focused on responsive layout.
-
-Focus: Responsive design · Tailwind CSS
+Deep in the fundamentals right now — components, JSX (including with TypeScript), props and prop typing, conditional and list rendering, event handling, `useState`, re-renders, fetching data with `async/await`, `useEffect`, and generally building the "thinking in React" mindset rather than just copying patterns.
 
 <br>
-GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=solymanwasif&show_icons=true&theme=dark&hide_border=true&hide_title=true&count_private=true" alt="Solyman Wasif's GitHub stats" width="100%" />
 
-I'm not a high-activity GitHub user yet — that's something I'm actively working on improving.
+## 🛠️ Tech Stack
 
-<br>
-Goals
-Become job / internship ready
-Gain real, hands-on development experience
-Keep learning consistently
-Keep thinking critically and solving problems creatively
-<br>
-Achievements
+**Frontend — my main focus**
 
-Completed 4 Programming Hero course assignments, scoring 60/60 on all four.
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+</p>
 
-A learning milestone, not a certification — but a good marker of consistency.
+**Tools**
 
-<br>
-AI & My Learning Approach
-
-I use AI as part of how I learn — not as a replacement for learning.
-
-I try to build things myself and understand the underlying concept first. AI helps me discuss a problem before jumping to a solution, explore different approaches, understand concepts I'm stuck on, and find creative, alternative solutions.
-
-I'm not an AI engineer, and that's not my current direction — AI is simply a tool in my workflow right now.
+<p align="left">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white" alt="npm" />
+</p>
 
 <br>
-Gaming (fun fact)
 
-Outside of code, I'm a gamer.
+## 🗺️ Learning Roadmap
 
-Favorite game: Free Fire Genres I gravitate toward: Open-world · Story-driven · Strategy
+What's next on the list, roughly in order:
+
+`Next.js` · `Express.js` · `MongoDB` · `Mongoose` · `Better Auth` · `SVG (as a design/graphics skill)` · `AI-Assisted Coding` · `AI Mindset & Engineering`
+
+Nothing here is claimed as a skill yet — it's the map, not the territory.
 
 <br>
-Contact
 
-<a href="mailto:reonsolymanwasif@gmail.com"><img src="https://img.shields.io/badge/Email-reonsolymanwasif%40gmail.com-2b2b2b?style=flat-square&logo=gmail&logoColor=white" alt="Email: reonsolymanwasif@gmail.com" /></a> <a href="https://github.com/Solymanwasif"><img src="https://img.shields.io/badge/GitHub-solymanwasif-2b2b2b?style=flat-square&logo=github&logoColor=white" alt="GitHub: solymanwasif" /></a>
+## 🚀 Featured Project
 
-<br> <p><em>Thanks for reading this far — always open to connecting on interesting projects.</em></p>
+### [DEVCONF 2026 — Conference Website](https://github.com/Solymanwasif/b14-a1-ai-css-enhancement/tree/main)
+
+A conference-themed frontend build with Navigation, Hero, Speakers, Schedule, Pricing, and Footer sections — put together to practice structuring a real multi-section page.
+
+`HTML` `CSS` `JavaScript`
+
+<br>
+
+## 📁 Other Project
+
+**Nature's Platter** — a grocery/e-commerce style frontend project focused on responsive design and Tailwind CSS. *(Not yet public on GitHub.)*
+
+<br>
+
+## 🏅 Milestone
+
+Completed 4 Programming Hero course assignments, scoring **60/60** on each.
+
+<br>
+
+## 🤖 How I Use AI
+
+AI is part of my learning workflow, not a replacement for it. I use it to talk through a problem, compare approaches, and understand *why* something works — the building still happens with me at the keyboard.
+
+<br>
+
+## 📊 GitHub Activity
+
+I'm still early here — most of my energy right now goes into learning and building rather than racking up commits. The card below is live and updates on its own, so it'll reflect my activity honestly as it grows.
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=solymanwasif&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Solyman's GitHub Stats" height="165" />
+</p>
+
+<br>
+
+## 🎮 Off the Keyboard
+
+Big gaming fan — mainly **Free Fire**, and generally drawn to open-world, story-driven, and strategy games. Different kind of problem-solving, same part of my brain.
+
+<br>
+
+## 📫 Get in Touch
+
+[![Email](https://img.shields.io/badge/Email-reonsolymanwasif%40gmail.com-D97757?style=flat&logo=gmail&logoColor=white)](mailto:reonsolymanwasif@gmail.com)
+
+<br>
+
+<div align="center">
+
+*"Beginner today, better tomorrow — one commit at a time."*
+
+</div>
