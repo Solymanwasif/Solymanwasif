@@ -1,7 +1,34 @@
 <div align="center">
 
-# 👋 Hi, I'm Solyman Wasif
-### _Frontend Developer | Problem Solver | Lifelong Learner_
+# <svg viewBox="0 0 1600 520" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Solyman Wasif — Frontend Developer</title>
+  <desc id="desc">Hero header: Solyman Wasif, Frontend Developer, Problem Solver and Lifelong Learner, focused on React, JavaScript and TypeScript, growing toward full-stack development.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111F"/>
+      <stop offset="0.55" stop-color="#050816"/>
+      <stop offset="1" stop-color="#0A1020"/>
+    </linearGradient>
+    <radialGradient id="glowCyan" cx="0.78" cy="0.42" r="0.55">
+      <stop offset="0" stop-color="#00E5FF" stop-opacity="0.10"/>
+      <stop offset="0.5" stop-color="#00E5FF" stop-opacity="0.03"/>
+      <stop offset="1" stop-color="#00E5FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowViolet" cx="0.12" cy="0.9" r="0.6">
+      <stop offset="0" stop-color="#7C3AED" stop-opacity="0.08"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#00E5FF" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="nameGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#9BE9FF"/>  maybe
+    </linearGradient>
+  </defs>
+  ...
+</svg>
+
 
 <!-- Typewriter Effect Animation -->
 ```
