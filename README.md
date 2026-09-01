@@ -1,160 +1,220 @@
-<div align="center">
+<!-- ============================================================ -->
+<!--                    HERO / INTRO                                -->
+<!-- ============================================================ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:7c3aed,100:22d3ee&height=200&section=header&text=Hi,%20I'm%20Soly%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=Frontend%20Developer%20in%20Progress%20%F0%9F%9A%80&descAlignY=62&descSize=18&animation=twinkling" width="100%"/>
+# Hi, I'm Solyman 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=680&lines=%F0%9F%92%A1+Learning+with+curiosity%2C+building+with+passion.;%3C%2F%3E+I+love+creating+things+that+live+on+the+web.;%F0%9F%8E%AE+Creative+thinker+%7C+Gamer+%7C+Lifelong+learner.;%F0%9F%8E%AF+Currently+focused+on+Frontend+Development.;%F0%9F%8F%86+Goal%3A+Become+a+skilled+developer+%26+build+meaningful+products." alt="Typing SVG" />
+### 🎮 Frontend Developer — Currently Leveling Up
 
-<br/>
+> Think differently. Build creatively. Never stop learning.
 
-<a href="#-about-me"><img src="https://img.shields.io/badge/🎓_About_Me-7C3AED?style=for-the-badge&logoColor=white" /></a>
-<a href="#-featured-projects"><img src="https://img.shields.io/badge/🚀_Projects-1a1a2e?style=for-the-badge&logoColor=white&color=161b22&labelColor=161b22" /></a>
+I'm a **beginner developer** on a mission to become **job/internship ready** — learning frontend development one concept at a time, building real projects along the way, and using AI as a thinking partner rather than a shortcut.
 
-</div>
+---
 
-<br/>
+<!-- ============================================================ -->
+<!--                    STATUS / QUICK STATS                        -->
+<!-- ============================================================ -->
 
-<table>
-<tr>
-<td width="60%" valign="top">
+## 🕹️ Player Status
 
-> 💡 Learning with curiosity, building with passion.
-> `</>` I love creating things that live on the web.
-> 🎮 Creative thinker | Gamer | Lifelong learner
-> 🎯 Currently focused on Frontend Development
-> 🏆 Goal: Become a skilled developer & build meaningful products
+| | |
+|---|---|
+| 🧑‍💻 **Class** | Frontend Developer *(Learner)* |
+| 🎯 **Current Quest** | Job / Internship Ready |
+| 📍 **Focus** | React & Node.js |
+| 🧠 **Playstyle** | Critical thinking, creative problem-solving |
+| 🎮 **Off-duty** | Gamer — Free Fire, open-world & story-driven games |
 
-</td>
-<td width="40%" valign="top">
+I enjoy solving problems in creative, non-traditional ways — I'd rather explore a few different approaches than jump straight to the "standard" one.
 
-<table width="100%">
-<tr><td>
+---
 
-**📖 Currently Learning**
+<!-- ============================================================ -->
+<!--                    CURRENTLY LEARNING                          -->
+<!-- ============================================================ -->
 
-![React](https://img.shields.io/badge/-React-161b22?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/-TypeScript-161b22?style=flat-square&logo=typescript&logoColor=3178C6)
-![Node.js](https://img.shields.io/badge/-Node.js-161b22?style=flat-square&logo=node.js&logoColor=339933)
-![MongoDB](https://img.shields.io/badge/-MongoDB-161b22?style=flat-square&logo=mongodb&logoColor=47A248)
+## 🌱 Currently Learning
 
-</td></tr>
-</table>
+```
+⚛️  React        → Components · JSX · Props · State · Hooks · Vite
+🟢  Node.js      → Just getting started
+```
 
-<table width="100%">
-<tr><td>
+**React topics in progress:**
+Components · JSX · Props · Conditional Rendering · List Rendering · State Management · Event Handling · `useState` · `useEffect` · API & Data Fetching · React Suspense · Vite · Building a "component mindset"
 
-**⚡ Quick Facts**
+> Still learning — not claiming mastery here. Just showing up and building.
 
-🌱 Beginner & growing every day
-🎯 Focused on Frontend Development
-🎮 Game lover & strategy thinker
-🤝 Believe in teamwork & trust
-🧩 Creative problem solver
+---
 
-</td></tr>
-</table>
+<!-- ============================================================ -->
+<!--                    TECH STACK / SKILL TREE                     -->
+<!-- ============================================================ -->
 
-</td>
-</tr>
-</table>
+## 🌳 Skill Tree
 
-<br/>
+**✅ Learned**
 
-<div align="center">
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### 🗂️ Tech Stack
+**🔄 Currently Learning**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,mongodb,git,github,vscode,figma&theme=dark" />
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-</div>
+**🗺️ On the Roadmap**
 
-<br/>
+`Next.js` · `Express.js` · `MongoDB` · `Mongoose` · `Better Auth` · `AI-Assisted Coding` · `AI Mindset & Engineering`
 
-<table>
-<tr>
-<td width="25%" valign="top">
+**🧰 Tools**
 
-### 👤 About Me
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-I'm a beginner Frontend Developer who loves to turn ideas into beautiful, interactive and user-friendly web experiences.
+I also use AI assistants regularly — to discuss problems, explore approaches, and get guidance while building.
 
-I enjoy learning new technologies, solving problems and building creative projects.
+---
 
-I'm not perfect, but I'm consistent. Every day I try to become a better version of myself. `</>`
+<!-- ============================================================ -->
+<!--                    LEARNING ROADMAP (PROGRESS BAR)             -->
+<!-- ============================================================ -->
 
-</td>
-<td width="25%" valign="top">
+## 🗺️ Learning Roadmap
 
-### 📁 What I'm Working On
+```
+HTML → CSS → JavaScript → TypeScript → React → Node.js → Full-Stack (Future)
+ ✅     ✅        ✅            ✅          🔄      🔄            🔒
+```
 
-- Improving my React & TypeScript skills
-- Building real-world projects
-- Learning Backend with Node.js
-- Exploring UI/UX & Animations
-- Becoming a Full-Stack Developer
+```
+Progress: [██████████░░░░░░░░░░] 50%
+```
 
-> 🗨️ *"Strive for progress, not perfection."* ⭐
+---
 
-</td>
-<td width="25%" valign="top">
+<!-- ============================================================ -->
+<!--                    FEATURED PROJECT                            -->
+<!-- ============================================================ -->
 
-### 🚀 Featured Projects
+## 🏆 Featured Project
 
-**🌤️ Weather App**
-Weather forecast app using React & OpenWeather API
+### 🎯 DEVCONF 2026
 
-**✅ Task Manager**
-A simple task manager to add, update and delete tasks
+A frontend project where I practiced core HTML, CSS, and basic JavaScript.
 
-**👤 Portfolio Website**
-My personal portfolio website built with React & TypeScript
+**🔗 Repo:** [b14-a1-ai-css-enhancement](https://github.com/Solymanwasif/b14-a1-ai-css-enhancement/tree/main)
 
-</td>
-<td width="25%" valign="top">
+`HTML` `CSS` `JavaScript`
 
-### 📡 Let's Connect
+---
 
-I'm open to collaborate on interesting projects and new ideas.
+<!-- ============================================================ -->
+<!--                    OTHER PROJECT                                -->
+<!-- ============================================================ -->
 
-[![GitHub](https://img.shields.io/badge/-GitHub-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/Solymanwasif)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-161b22?style=flat-square&logo=linkedin&logoColor=0A66C2)](#)
-[![Email](https://img.shields.io/badge/-Email-161b22?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:reonsolymanwasif@gmail.com)
+## 📦 Other Project
 
-Thanks for visiting! ⭐
+### 🌿 Nature's Platter
 
-</td>
-</tr>
-</table>
+A grocery / e-commerce style frontend project, focused on responsive design.
 
-<br/>
+`Responsive Design` `Tailwind CSS`
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+---
 
-### 📈 GitHub Stats
+<!-- ============================================================ -->
+<!--                    ACHIEVEMENTS                                 -->
+<!-- ============================================================ -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=Solymanwasif&show_icons=true&hide_border=true&rank_icon=github&theme=radical&bg_color=0d1117&title_color=A78BFA&icon_color=22D3EE&text_color=c9d1d9" width="100%"/>
+## 🏅 Achievements Unlocked
 
-</td>
-<td width="50%" valign="top">
+- ✅ Completed **4 Programming Hero course assignments**
+- 🎯 Scored **60/60** on all 4 assignments
 
-### 🗣️ Languages I'm Learning
+---
 
-<table>
-<tr><td>HTML</td><td><img src="https://progress-bar.dev/90/?width=200&color=ff6b35"/></td><td>90%</td></tr>
-<tr><td>CSS</td><td><img src="https://progress-bar.dev/85/?width=200&color=2196f3"/></td><td>85%</td></tr>
-<tr><td>JavaScript</td><td><img src="https://progress-bar.dev/80/?width=200&color=f0db4f"/></td><td>80%</td></tr>
-<tr><td>TypeScript</td><td><img src="https://progress-bar.dev/70/?width=200&color=3178c6"/></td><td>70%</td></tr>
-<tr><td>React</td><td><img src="https://progress-bar.dev/65/?width=200&color=61dafb"/></td><td>65%</td></tr>
-<tr><td>Node.js</td><td><img src="https://progress-bar.dev/50/?width=200&color=68a063"/></td><td>50%</td></tr>
-</table>
+<!-- ============================================================ -->
+<!--                    AI & LEARNING APPROACH                      -->
+<!-- ============================================================ -->
 
-</td>
-</tr>
-</table>
+## 🤖 AI & My Learning Approach
 
-<div align="center">
+I use AI as a **thinking partner**, not a replacement for learning:
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:7c3aed,100:0f0c29&height=100&section=footer" width="100%"/>
+- 💬 Discussing problems before solving them
+- 🔍 Exploring different approaches
+- 💡 Finding creative solutions
+- 📖 Understanding concepts more deeply
+- 🧭 Getting guidance while building projects
 
-</div>
+I'm curious about where AI is headed, but right now it's a tool that supports how I learn — not my career direction.
+
+---
+
+<!-- ============================================================ -->
+<!--                    GOALS                                        -->
+<!-- ============================================================ -->
+
+## 🎯 Current Goals
+
+- 🚀 Become job / internship ready
+- 🛠️ Gain real-world development experience
+- 📚 Keep learning, consistently
+- 🧠 Think critically about every problem
+- 🎨 Solve problems creatively, not just conventionally
+
+---
+
+<!-- ============================================================ -->
+<!--                    GAMING / FUN FACT                            -->
+<!-- ============================================================ -->
+
+## 🎮 Player 2 Mode: Gaming
+
+When I'm not coding, I'm probably gaming.
+
+**Favorite game:** Free Fire
+**Favorite genres:** Open-world · Story-driven · Strategy
+
+---
+
+<!-- ============================================================ -->
+<!--                    GITHUB STATS                                 -->
+<!-- ============================================================ -->
+
+## 📊 GitHub Stats
+
+![Solyman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Solymanwasif&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+---
+
+<!-- ============================================================ -->
+<!--                    DEVELOPER QUOTE                              -->
+<!-- ============================================================ -->
+
+## 💭 Developer Quote
+
+> *"Think differently. Solve creatively. Keep learning."*
+
+---
+
+<!-- ============================================================ -->
+<!--                    CONTACT                                      -->
+<!-- ============================================================ -->
+
+## 📡 Connect With Me
+
+📧 **Email:** [reonsolymanwasif@gmail.com](mailto:reonsolymanwasif@gmail.com)
+🐙 **GitHub:** [@Solymanwasif](https://github.com/Solymanwasif)
+
+---
+
+⭐ *Thanks for stopping by — always up for connecting on interesting projects.*
