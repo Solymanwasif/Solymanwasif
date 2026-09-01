@@ -1,14 +1,25 @@
+<div align="center">
 
+![Solyman Wasif - Frontend Developer](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=👋+Hi+I'm+Solyman+Wasif;🚀+Frontend+Developer;💡+Problem+Solver;🎯+Lifelong+Learner)
 
-<!-- Typewriter Effect Animation -->
+</div>
+
+---
+
+<div align="center">
+
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║  🚀 Building Beautiful Web Experiences with React & Magic  ║
-║     💡 Turning Ideas into Code | 🎯 Always Learning        ║
+║                                                              ║
+║        🎨 FRONTEND DEVELOPER | REACT ENTHUSIAST 🎨           ║
+║                                                              ║
+║   Problem Solver • Lifelong Learner • JavaScript Wizard     ║
+║                                                              ║
+║  Focused on React, JavaScript & TypeScript                 ║
+║  Growing toward Full-Stack Development                      ║
+║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;I+am+a+Beginner+Frontend+Developer;Currently+Learning+React+%26+Node.js;Building+projects+to+master+the+craft)](https://git.io/typing-svg)
 
 </div>
 
