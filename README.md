@@ -11,7 +11,7 @@
 ---
 <div align="center">
 
-![Current Focus](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1200&color=00E5FF&center=true&vCenter=true&width=800&lines=⚡+Current+Focus;🚀+Frontend+Development;⚛️+React+Development;🟦+TypeScript;🟢+Node.js;🎯+Growing+Toward+Full-Stack+Development)
+![Current Focus](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1200&color=00E5FF&center=true&vCenter=true&width=800&lines=CURRENT+FOCUS;Frontend+Development;React+Development;TypeScript;Node.js;Growing+Toward+Full-Stack)
 
 </div>
 ## 🎮 **ABOUT ME** [LEVEL: BEGINNER] 🎮
