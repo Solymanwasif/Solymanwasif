@@ -9,22 +9,55 @@
   <img src="Hero-Banner.svg" alt="Solyman Wasif Hero Banner" width="100%" />
 </p>
 
-<div align="center">
+## ⚡ CURRENT FOCUS
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║        🎨 FRONTEND DEVELOPER | REACT ENTHUSIAST 🎨           ║
-║                                                              ║
-║   Problem Solver • Lifelong Learner • JavaScript Wizard     ║
-║                                                              ║
-║  Focused on React, JavaScript & TypeScript                 ║
-║  Growing toward Full-Stack Development                      ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<p align="center">
+  <i>Building my foundation today. Growing toward Full-Stack tomorrow.</i>
+</p>
 
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="250">
+      <h3>🎨 Frontend</h3>
+      HTML • CSS • JavaScript<br>
+      TypeScript
+    </td>
+
+    <td align="center" width="50">
+      <h2>→</h2>
+    </td>
+
+    <td align="center" width="250">
+      <h3>⚛️ React</h3>
+      Components • JSX<br>
+      Props • State • APIs
+    </td>
+
+    <td align="center" width="50">
+      <h2>→</h2>
+    </td>
+
+    <td align="center" width="250">
+      <h3>🟢 Node.js</h3>
+      Backend Fundamentals<br>
+      APIs • Async/Await
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+
+<b>Currently Learning:</b> React & Node.js
+
+<br><br>
+
+<b>My Direction:</b>
+
+<br>
+
+Frontend Development → React → Node.js → Full-Stack Development
+
+</p>
 
 ---
 
