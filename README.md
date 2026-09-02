@@ -188,25 +188,73 @@ Currently Mastering:
 
 ---
 
+## 🛒 NATURE'S PLATTER SHOP
+
+<table>
+<tr>
+<td colspan="2" align="center">
+
+### 🌿 Nature's Platter — Fresh Food E-Commerce
+
+<img
+  src="./assets/natures-platter-hero.png"
+  alt="Nature's Platter Shop Hero Banner"
+  width="100%"
+/>
+
+</td>
+</tr>
+
+<tr>
+
+<td width="60%" valign="middle">
+
+### 💡 ABOUT THE PROJECT
+
+![Project Description](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&duration=3500&pause=1600&color=00E5FF&left=true&vCenter=true&width=650&height=120&multiline=true&lines=Fresh-food+e-commerce+frontend+project;Built+with+HTML%2C+CSS+%26+JavaScript;Focused+on+clean+and+responsive+UI;Designed+to+practice+real-world+web+development)
+
+
+
+### 🛠️ TECH STACK
+
+![Tech Stack](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&duration=3500&pause=1400&color=3FB950&left=true&vCenter=true&width=650&height=60&multiline=true&lines=HTML+%7C+CSS+%7C+JavaScript)
+
+
+
+### 🎯 FOCUS AREAS
+
+![Focus Areas](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=1200&color=A371F7&left=true&vCenter=true&width=650&height=100&multiline=true&lines=%F0%9F%9B%92+E-Commerce+UI;%F0%9F%93%B1+Responsive+Design;%F0%9F%8E%A8+Clean+Visual+Design;%E2%9A%A1+Interactive+User+Experience)
+
+<br>
+
+<p align="left">
+  <a href="https://github.com/Solymanwasif/Nature-s-platter-shop">
+    🔗 View Repository
+  </a>
+</p>
+
+</td>
+
+<td width="40%" align="center" valign="middle">
+
+### 👀 VISUAL PREVIEW
+
+<img
+  src="./assets/natures-platter-preview.gif"
+  alt="Nature's Platter Animated Preview"
+  width="100%"
+/>
+
+<br>
+
+<sub>✨ Interactive project preview</sub>
+
+</td>
+
+</tr>
+</table>
+
 ---
-
-### 🛒 **Nature's Platter** - E-Commerce Frontend
-<div align="left">
-
-**Status:** ✅ Completed  
-**Tech Stack:** HTML • CSS • Tailwind CSS • JavaScript  
-**Focus Areas:**
-  - 📱 Responsive Design Mastery
-  - 🎨 Modern UI with Tailwind
-  - 🛍️ E-commerce UI Patterns
-  - 💻 Cross-device Compatibility
-
-[🔗 View Repository](https://github.com/Solymanwasif/Nature-s-platter-shop)
-
-</div>
-
----
-
 ## 🎮 **GAMING PROFILE** 🎮
 
 <div align="center">
