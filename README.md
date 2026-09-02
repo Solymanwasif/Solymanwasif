@@ -9,11 +9,19 @@
 
 </div>
 ---
-<div align="center">
+<p align="left">
 
-![Current Focus](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1200&color=00E5FF&center=true&vCenter=true&width=800&lines=CURRENT+FOCUS;Frontend+Development;React+Development;TypeScript;Node.js;Growing+Toward+Full-Stack)
+<p align="left">
 
-</div>
+![Current Focus](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2500&pause=1200&color=00E5FF&center=false&vCenter=true&width=600&lines=%F0%9F%8E%AF+CURRENT+FOCUS)
+
+![Completed](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&pause=1200&color=3FB950&center=false&vCenter=true&width=900&lines=%E2%9C%85+COMPLETED+%7C+HTML+%E2%86%92+CSS+%E2%86%92+JavaScript+%E2%86%92+TypeScript)
+
+![Currently Learning](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&pause=1200&color=58A6FF&center=false&vCenter=true&width=700&lines=%F0%9F%9A%80+CURRENTLY+LEARNING+%7C+React+%E2%86%92+Node.js)
+
+![Future Learning](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&pause=1200&color=A371F7&center=false&vCenter=true&width=1000&lines=%F0%9F%94%AE+FUTURE+LEARNING+%7C+Next.js+%E2%86%92+Express.js+%E2%86%92+MongoDB+%E2%86%92+Full-Stack)
+
+</p>
 ## 🎮 **ABOUT ME** [LEVEL: BEGINNER] 🎮
 
 <img align="right" src="https://img.shields.io/badge/Status-Learning%20Mode%20ON-ff69b4?style=for-the-badge&logo=rocket&logoColor=white">
