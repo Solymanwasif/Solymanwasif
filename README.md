@@ -18,9 +18,9 @@
 
 ![Currently Learning Technologies](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=5000&pause=1200&color=00E5FF&center=false&vCenter=true&width=900&lines=%E2%9A%9B%EF%B8%8F+React+%7C+%F0%9F%9F%A2+Node.js)
 
-## ![Future Learning](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2500&pause=1200&color=A371F7&center=false&vCenter=true&width=1000&lines=%F0%9F%93%9A+FUTURE+LEARNING)
+## ![Future Learning](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=5000&pause=1200&color=A371F7&center=false&vCenter=true&width=1000&lines=%F0%9F%93%9A+FUTURE+LEARNING)
 
-![Future Learning Technologies](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&pause=1200&color=00E5FF&center=false&vCenter=true&width=1100&lines=%E2%96%B2+Next.js+%7C+%F0%9F%9A%82+Express.js+%7C+%F0%9F%8D%83+MongoDB+%7C+%E2%9A%A1+Full-Stack)
+![Future Learning Technologies](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=5000&pause=1200&color=00E5FF&center=false&vCenter=true&width=1100&lines=%E2%96%B2+Next.js+%7C+%F0%9F%9A%82+Express.js+%7C+%F0%9F%8D%83+MongoDB+%7C+%E2%9A%A1+Full-Stack)
 
 
 
