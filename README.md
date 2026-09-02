@@ -351,7 +351,7 @@ width="42%"
 <div align="center">
 
 <img
-  src="assets/preview.html"
+  src="assets/footer-wave.svg"
   alt="Animated Liquid Footer Wave"
   width="100%"
 />
@@ -360,21 +360,3 @@ width="42%"
 
 <br>
 
-<div align="center">
-
-### 🚀 Think Differently · Solve Creatively · Learn Deep
-
-</div>
-
-<br>
-
-<div align="center">
-
-⭐ Thanks for visiting my profile!
-
-</div>
-
-![Made with](https://img.shields.io/badge/Made_with-❤️_+_☕_Coffee-FFD700?style=flat-square)
-
-</div>
-```
