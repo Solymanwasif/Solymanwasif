@@ -7,7 +7,7 @@
 </div>
 
 
-![Solyman Wasif - Frontend Developer](Hero-Banner.svg)
+![Solyman Wasif - Frontend Developer](assets/Hero-Banner.svg)
 
 
 # 🎯 CURRENT FOCUS
