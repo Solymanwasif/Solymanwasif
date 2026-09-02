@@ -11,8 +11,6 @@
 
 ## ⚡ CURRENT FOCUS
 
-# ⚡ CURRENT FOCUS
-
 <p align="center">
   <i>Building my foundation today. Growing toward Full-Stack tomorrow.</i>
 </p>
