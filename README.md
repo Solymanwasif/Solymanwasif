@@ -6,7 +6,7 @@
 
 ---
 <p align="center">
-  <img src="hero-banner.svg" alt="Solyman Wasif Hero Banner" width="100%" />
+  <img src="hero-banner-new.svg" alt="Solyman Wasif Hero Banner" width="100%" />
 </p>
 
 <div align="center">
