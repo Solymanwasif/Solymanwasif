@@ -142,7 +142,7 @@ Currently Mastering:
 </tr>
 
 <tr>
-<td width="60%" valign="middle">
+<td width="40%" valign="middle">
 
 ### 💡 ABOUT THE PROJECT
 
@@ -168,7 +168,7 @@ Currently Mastering:
 
 </td>
 
-<td width="40%" align="center" valign="middle">
+<td width="60%" align="center" valign="middle">
 
 ### 👀 Visual Preview
 
@@ -177,7 +177,6 @@ Currently Mastering:
   alt="DEVCONF 2026 Animated Preview"
   width="100%"
 />
-
 <br>
 
 <sub>✨ Interactive project preview</sub>
@@ -201,13 +200,12 @@ Currently Mastering:
   alt="Nature's Platter Shop Hero Banner"
   width="100%"
 />
-
 </td>
 </tr>
 
 <tr>
 
-<td width="60%" valign="middle">
+<td width="40%" valign="middle">
 
 ### 💡 ABOUT THE PROJECT
 
@@ -235,7 +233,7 @@ Currently Mastering:
 
 </td>
 
-<td width="40%" align="center" valign="middle">
+<td width="60%" align="center" valign="middle">
 
 ### 👀 VISUAL PREVIEW
 
@@ -244,7 +242,6 @@ Currently Mastering:
   alt="Nature's Platter Animated Preview"
   width="100%"
 />
-
 <br>
 
 <sub>✨ Interactive project preview</sub>
