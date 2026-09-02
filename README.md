@@ -3,7 +3,11 @@
 ![Solyman Wasif - Frontend Developer](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=👋+Hi+I'm+Solyman+Wasif;🚀+Frontend+Developer;💡+Problem+Solver;🎯+Lifelong+Learner)
 
 </div>
+<div align="center">
 
+![Solyman Wasif - Frontend Developer](Hero-Banner.svg)
+
+</div>
 ---
 <div align="center">
 
