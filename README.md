@@ -123,7 +123,6 @@ Currently Mastering:
 ---
 
 ---
-
 ## 🚀 DEVCONF 2026
 
 <table>
@@ -142,22 +141,26 @@ Currently Mastering:
 </tr>
 
 <tr>
-<td width="40%" valign="middle">
+
+<td width="30%" valign="top">
 
 ### 💡 ABOUT THE PROJECT
 
-![Project Description](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&duration=3500&pause=1600&color=00E5FF&left=true&vCenter=true&width=650&height=120&multiline=true&lines=Conference-themed+frontend+project;Built+with+HTML%2C+CSS+%26+JavaScript;Focused+on+modern+responsive+UI;Created+to+practice+real-world+frontend+development;;TECH+STACK;HTML+%7C+CSS+%7C+JavaScript)
+![Project Description](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&pause=1600&color=00E5FF&left=true&vCenter=true&width=330&height=220&multiline=true&lines=Conference-themed;frontend+Built+with+HTML+CSS+JavaScript;Modern+responsive+UI;Real-world+frontend+practice)
 
-
+<br>
 
 ### 🛠️ TECH STACK
 
-![Tech Stack](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&duration=3500&pause=1400&color=3FB950&left=true&vCenter=true&width=650&height=60&multiline=true&lines=HTML+%7C+CSS+%7C+JavaScript)
+![Tech Stack](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3500&pause=1400&color=3FB950&left=true&vCenter=true&width=330&height=70&multiline=true&lines=HTML+%7C+CSS+%7C+JavaScript)
 
+<br>
 
 ### 🎯 FOCUS AREAS
 
-![Focus Areas](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=1200&color=A371F7&left=true&vCenter=true&width=650&height=100&multiline=true&lines=%F0%9F%8E%A8+Modern+Web+Design;%F0%9F%93%B1+Responsive+Layout;%F0%9F%A7%A9+DOM+Manipulation;%E2%9A%A1+JavaScript+Interaction)
+![Focus Areas](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=23&duration=3000&pause=1200&color=A371F7&left=true&vCenter=true&width=330&height=150&multiline=true&lines=%F0%9F%8E%A8+Modern+Web+Design;%F0%9F%93%B1+Responsive+Layout;%F0%9F%A7%A9+DOM+Manipulation;%E2%9A%A1+JavaScript+Interaction)
+
+<br>
 
 <a href="https://github.com/Solymanwasif/b14-a1-ai-css-enhancement">
   🔗 View Repository
@@ -165,23 +168,22 @@ Currently Mastering:
 
 </td>
 
+<td width="70%" align="center" valign="middle">
 
-</td>
-
-<td width="60%" align="center" valign="middle">
-
-### 👀 Visual Preview
+### 👀 VISUAL PREVIEW
 
 <img
   src="./assets/devconf-preview.gif"
   alt="DEVCONF 2026 Animated Preview"
   width="100%"
 />
+
 <br>
 
 <sub>✨ Interactive project preview</sub>
 
 </td>
+
 </tr>
 </table>
 
@@ -200,40 +202,39 @@ Currently Mastering:
   alt="Nature's Platter Shop Hero Banner"
   width="100%"
 />
+
 </td>
 </tr>
 
 <tr>
 
-<td width="40%" valign="middle">
+<td width="30%" valign="top">
 
 ### 💡 ABOUT THE PROJECT
 
-![Project Description](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&duration=3500&pause=1600&color=00E5FF&left=true&vCenter=true&width=650&height=120&multiline=true&lines=Fresh-food+e-commerce+frontend+project;Built+with+HTML%2C+CSS+%26+JavaScript;Focused+on+clean+and+responsive+UI;Designed+to+practice+real-world+web+development)
-
-
-
-### 🛠️ TECH STACK
-
-![Tech Stack](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&duration=3500&pause=1400&color=3FB950&left=true&vCenter=true&width=650&height=60&multiline=true&lines=HTML+%7C+CSS+%7C+JavaScript)
-
-
-
-### 🎯 FOCUS AREAS
-
-![Focus Areas](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=1200&color=A371F7&left=true&vCenter=true&width=650&height=100&multiline=true&lines=%F0%9F%9B%92+E-Commerce+UI;%F0%9F%93%B1+Responsive+Design;%F0%9F%8E%A8+Clean+Visual+Design;%E2%9A%A1+Interactive+User+Experience)
+![Project Description](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&pause=1600&color=00E5FF&left=true&vCenter=true&width=330&height=220&multiline=true&lines=Fresh-food;e-commerce+Built+with+HTML+CSS+JavaScript;Clean+responsive+UI;Real-world+web+development)
 
 <br>
 
-<p align="left">
-  <a href="https://github.com/Solymanwasif/Nature-s-platter-shop">
-    🔗 View Repository
-  </a>
-</p>
+### 🛠️ TECH STACK
+
+![Tech Stack](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3500&pause=1400&color=3FB950&left=true&vCenter=true&width=330&height=70&multiline=true&lines=HTML+%7C+CSS+%7C+JavaScript)
+
+<br>
+
+### 🎯 FOCUS AREAS
+
+![Focus Areas](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=23&duration=3000&pause=1200&color=A371F7&left=true&vCenter=true&width=330&height=150&multiline=true&lines=%F0%9F%9B%92+E-Commerce+UI;%F0%9F%93%B1+Responsive+Design;%F0%9F%8E%A8+Clean+Visual+Design;%E2%9A%A1+Interactive+UX)
+
+<br>
+
+<a href="https://github.com/Solymanwasif/Nature-s-platter-shop">
+  🔗 View Repository
+</a>
 
 </td>
 
-<td width="60%" align="center" valign="middle">
+<td width="70%" align="center" valign="middle">
 
 ### 👀 VISUAL PREVIEW
 
@@ -242,6 +243,7 @@ Currently Mastering:
   alt="Nature's Platter Animated Preview"
   width="100%"
 />
+
 <br>
 
 <sub>✨ Interactive project preview</sub>
