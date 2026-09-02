@@ -11,53 +11,36 @@
 
 ## ⚡ CURRENT FOCUS
 
+# ⚡ CURRENT FOCUS
+
 <p align="center">
   <i>Building my foundation today. Growing toward Full-Stack tomorrow.</i>
 </p>
 
-<table align="center">
-  <tr>
-    <td align="center" width="250">
-      <h3>🎨 Frontend</h3>
-      HTML • CSS • JavaScript<br>
-      TypeScript
-    </td>
-
-    <td align="center" width="50">
-      <h2>→</h2>
-    </td>
-
-    <td align="center" width="250">
-      <h3>⚛️ React</h3>
-      Components • JSX<br>
-      Props • State • APIs
-    </td>
-
-    <td align="center" width="50">
-      <h2>→</h2>
-    </td>
-
-    <td align="center" width="250">
-      <h3>🟢 Node.js</h3>
-      Backend Fundamentals<br>
-      APIs • Async/Await
-    </td>
-  </tr>
-</table>
-
 <p align="center">
-
-<b>Currently Learning:</b> React & Node.js
-
-<br><br>
-
-<b>My Direction:</b>
-
-<br>
-
-Frontend Development → React → Node.js → Full-Stack Development
-
+  <b>🎨 Frontend Development</b>
+  &nbsp; → &nbsp;
+  <b>⚛️ React</b>
+  &nbsp; → &nbsp;
+  <b>🟢 Node.js</b>
+  &nbsp; → &nbsp;
+  <b>🚀 Full-Stack</b>
 </p>
+
+---
+
+### 🎯 Currently Learning
+
+- ⚛️ React — Components, JSX, Props, State, APIs, `useState`, `useEffect`
+- 🟢 Node.js — Backend fundamentals, APIs, Async/Await
+- 🧠 Strengthening problem-solving and development fundamentals
+
+### 🧭 My Direction
+
+**Frontend-focused Developer → React → Node.js → Full-Stack Development**
+
+> **Think critically. Solve creatively. Keep learning.**
+
 
 ---
 
