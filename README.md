@@ -1,3 +1,5 @@
+
+
 <div align="center">
 
 ![Solyman Wasif - Frontend Developer](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=👋+Hi+I'm+Solyman+Wasif;🚀+Frontend+Developer;💡+Problem+Solver;🎯+Lifelong+Learner)
@@ -10,18 +12,17 @@
 
 # 🎯 CURRENT FOCUS
 
-## ![Completed](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=4000&pause=1200&color=3FB950&center=false&vCenter=true&width=1000&lines=%E2%9C%85+COMPLETED)
+## ![Completed](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=6000&pause=2500&color=3FB950&center=false&vCenter=true&width=1000&lines=%E2%9C%85+COMPLETED)
 
-![Completed Technologies](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=4000&pause=1200&color=00E5FF&center=false&vCenter=true&width=1100&lines=%F0%9F%8C%90+HTML+%7C+%F0%9F%8E%A8+CSS+%7C+%F0%9F%9F%A8+JavaScript+%7C+%F0%9F%94%B7+TypeScript)
+![Completed Technologies](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=6000&pause=2500&color=00E5FF&center=false&vCenter=true&width=1100&lines=%F0%9F%8C%90+HTML+%7C+%F0%9F%8E%A8+CSS+%7C+%F0%9F%9F%A8+JavaScript+%7C+%F0%9F%94%B7+TypeScript)
 
-## ![Currently Learning](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=4000&pause=1200&color=58A6FF&center=false&vCenter=true&width=1000&lines=%F0%9F%9A%80+CURRENTLY+LEARNING)
+## ![Currently Learning](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=6000&pause=2500&color=58A6FF&center=false&vCenter=true&width=1000&lines=%F0%9F%9A%80+CURRENTLY+LEARNING)
 
-![Currently Learning Technologies](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=4000&pause=1200&color=00E5FF&center=false&vCenter=true&width=900&lines=%E2%9A%9B%EF%B8%8F+React+%7C+%F0%9F%9F%A2+Node.js)
+![Currently Learning Technologies](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=6000&pause=2500&color=00E5FF&center=false&vCenter=true&width=900&lines=%E2%9A%9B%EF%B8%8F+React+%7C+%F0%9F%9F%A2+Node.js)
 
-## ![Future Learning](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=4000&pause=1200&color=A371F7&center=false&vCenter=true&width=1000&lines=%F0%9F%93%9A+FUTURE+LEARNING)
+## ![Future Learning](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=6000&pause=2500&color=A371F7&center=false&vCenter=true&width=1000&lines=%F0%9F%93%9A+FUTURE+LEARNING)
 
-![Future Learning Technologies](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=4000&pause=1200&color=00E5FF&center=false&vCenter=true&width=1100&lines=%E2%96%B2+Next.js+%7C+%F0%9F%9A%82+Express.js+%7C+%F0%9F%8D%83+MongoDB+%7C+%E2%9A%A1+Full-Stack)
-
+![Future Learning Technologies](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=6000&pause=2500&color=00E5FF&center=false&vCenter=true&width=1100&lines=%E2%96%B2+Next.js+%7C+%F0%9F%9A%82+Express.js+%7C+%F0%9F%8D%83+MongoDB+%7C+%E2%9A%A1+Full-Stack)
 
 
 
@@ -121,22 +122,71 @@ Currently Mastering:
 
 ---
 
-## 💼 **FEATURED PROJECTS** 💼
+---
 
-### 🚀 **DEVCONF 2026** - AI CSS Enhancement Challenge
-<div align="left">
+## 🚀 DEVCONF 2026
 
-**Status:** ✅ Completed  
-**Tech Stack:** HTML • CSS • Vanilla JavaScript  
-**Focus Areas:**
-  - 🎨 Web Design Fundamentals
-  - 🧩 DOM Manipulation
-  - 📱 Responsive Layout
-  - 🎯 JavaScript Basics
+<table>
+<tr>
+<td colspan="2" align="center">
 
-[🔗 View Repository](https://github.com/Solymanwasif/b14-a1-ai-css-enhancement)
+### 🎨 DEVCONF 2026 — AI CSS Enhancement Challenge
 
-</div>
+<img
+  src="./assets/devconf-hero.png"
+  alt="DEVCONF 2026 Hero Banner"
+  width="100%"
+/>
+
+</td>
+</tr>
+
+<tr>
+<td width="60%" valign="middle">
+
+### 💡 ABOUT THE PROJECT
+
+![Project Description](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&duration=3500&pause=1600&color=00E5FF&left=true&vCenter=true&width=650&height=120&multiline=true&lines=Conference-themed+frontend+project;Built+with+HTML%2C+CSS+%26+JavaScript;Focused+on+modern+responsive+UI;Created+to+practice+real-world+frontend+development;;TECH+STACK;HTML+%7C+CSS+%7C+JavaScript)
+
+
+
+### 🛠️ TECH STACK
+
+![Tech Stack](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&duration=3500&pause=1400&color=3FB950&left=true&vCenter=true&width=650&height=60&multiline=true&lines=HTML+%7C+CSS+%7C+JavaScript)
+
+
+### 🎯 FOCUS AREAS
+
+![Focus Areas](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=1200&color=A371F7&left=true&vCenter=true&width=650&height=100&multiline=true&lines=%F0%9F%8E%A8+Modern+Web+Design;%F0%9F%93%B1+Responsive+Layout;%F0%9F%A7%A9+DOM+Manipulation;%E2%9A%A1+JavaScript+Interaction)
+
+<a href="https://github.com/Solymanwasif/b14-a1-ai-css-enhancement">
+  🔗 View Repository
+</a>
+
+</td>
+
+
+</td>
+
+<td width="40%" align="center" valign="middle">
+
+### 👀 Visual Preview
+
+<img
+  src="./assets/devconf-preview.gif"
+  alt="DEVCONF 2026 Animated Preview"
+  width="100%"
+/>
+
+<br>
+
+<sub>✨ Interactive project preview</sub>
+
+</td>
+</tr>
+</table>
+
+---
 
 ---
 
