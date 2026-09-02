@@ -1,0 +1,471 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 1600 650" width="1600" height="650"
+     role="img" aria-labelledby="title desc">
+
+  <title id="title">Solyman Wasif — Animated Full Stack Developer Hero Banner</title>
+  <desc id="desc">
+    Futuristic cyberpunk developer banner. The left side types the portfolio introduction
+    sequentially. The computer on the right displays meaningful full-stack code that appears
+    line by line with animated syntax highlighting.
+  </desc>
+
+  <defs>
+    <!-- Background -->
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#02030a"/>
+      <stop offset=".48" stop-color="#061222"/>
+      <stop offset="1" stop-color="#02040a"/>
+    </linearGradient>
+
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00eaff"/>
+      <stop offset=".55" stop-color="#168cff"/>
+      <stop offset="1" stop-color="#9b5cff"/>
+    </linearGradient>
+
+    <radialGradient id="cyanGlow">
+      <stop offset="0" stop-color="#00eaff" stop-opacity=".24"/>
+      <stop offset="1" stop-color="#00eaff" stop-opacity="0"/>
+    </radialGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="soft">
+      <feGaussianBlur stdDeviation="28"/>
+    </filter>
+
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" fill="none"
+            stroke="#37cfff" stroke-opacity=".055"/>
+    </pattern>
+
+    <clipPath id="screenClip">
+      <rect x="1040" y="156" width="475" height="276" rx="9"/>
+    </clipPath>
+
+    <style>
+      .ui { font-family: Inter, Segoe UI, Arial, sans-serif; }
+      .mono { font-family: Consolas, "Courier New", monospace; }
+
+      .name {
+        font-size: 84px;
+        font-weight: 900;
+        letter-spacing: 2px;
+      }
+
+      .role {
+        font-size: 30px;
+        font-weight: 650;
+      }
+
+      .desc {
+        font-size: 15px;
+        letter-spacing: 1px;
+      }
+
+      .badge {
+        font-size: 10px;
+        letter-spacing: .4px;
+      }
+
+      .blink {
+        animation: blink .85s steps(2,start) infinite;
+      }
+
+      .pulse {
+        animation: pulse 2.8s ease-in-out infinite;
+      }
+
+      @keyframes blink {
+        50% { opacity: 0; }
+      }
+
+      @keyframes pulse {
+        0%,100% { opacity: .25; }
+        50% { opacity: 1; }
+      }
+    </style>
+  </defs>
+
+  <!-- =========================================================
+       BACKGROUND
+       ========================================================= -->
+  <rect width="1600" height="650" fill="url(#bg)"/>
+
+  <ellipse cx="1190" cy="320" rx="560" ry="330"
+           fill="url(#cyanGlow)" filter="url(#soft)"/>
+
+  <ellipse cx="350" cy="370" rx="390" ry="240"
+           fill="#165bff" opacity=".045" filter="url(#soft)"/>
+
+  <rect width="1600" height="650" fill="url(#grid)"/>
+
+  <!-- Abstract city silhouettes — no readable text -->
+  <g fill="#050b16" opacity=".88">
+    <path d="M790 470V325h50v-68h38v213h33V290h58v180h33V210h52v260h40V275h62v195h38V165h72v305h40V240h65v230h42V185h82v285h45V290h60v180h34V245h72v225h35v20H790Z"/>
+  </g>
+
+  <g fill="#22ddff" class="pulse">
+    <rect x="820" y="355" width="7" height="5"/>
+    <rect x="855" y="320" width="7" height="5"/>
+    <rect x="900" y="300" width="7" height="5"/>
+    <rect x="952" y="365" width="7" height="5"/>
+    <rect x="1010" y="280" width="7" height="5"/>
+    <rect x="1065" y="330" width="7" height="5"/>
+    <rect x="1130" y="245" width="7" height="5"/>
+    <rect x="1190" y="315" width="7" height="5"/>
+    <rect x="1260" y="275" width="7" height="5"/>
+    <rect x="1325" y="360" width="7" height="5"/>
+    <rect x="1395" y="250" width="7" height="5"/>
+    <rect x="1460" y="330" width="7" height="5"/>
+  </g>
+
+  <!-- =========================================================
+       LEFT SIDE — ONLY PORTFOLIO TEXT
+       ========================================================= -->
+  <g class="ui">
+
+    <!-- Intro -->
+    <text x="78" y="105"
+          fill="#78efff"
+          font-size="20"
+          font-weight="650"
+          letter-spacing="4"
+          opacity="0">
+      HELLO, I AM
+      <animate attributeName="opacity"
+               begin="0s" dur=".4s" to="1" fill="freeze"/>
+    </text>
+
+    <!-- =====================================================
+         NAME TYPING:
+         S → So → Sol → Soly → Solym → Solyma → Solyman
+         → Solyman W → ... → Solyman Wasif
+         ===================================================== -->
+    <g class="name" fill="url(#accent)">
+
+      <text x="76" y="225" opacity="0">S
+        <animate attributeName="opacity" begin=".45s" dur=".01s" to="1" fill="freeze"/>
+        <animate attributeName="opacity" begin=".78s" dur=".01s" to="0" fill="freeze"/>
+      </text>
+
+      <text x="76" y="225" opacity="0">So
+        <animate attributeName="opacity" begin=".78s" dur=".01s" to="1" fill="freeze"/>
+        <animate attributeName="opacity" begin="1.11s" dur=".01s" to="0" fill="freeze"/>
+      </text>
+
+      <text x="76" y="225" opacity="0">Sol
+        <animate attributeName="opacity" begin="1.11s" dur=".01s" to="1" fill="freeze"/>
+        <animate attributeName="opacity" begin="1.44s" dur=".01s" to="0" fill="freeze"/>
+      </text>
+
+      <text x="76" y="225" opacity="0">Soly
+        <animate attributeName="opacity" begin="1.44s" dur=".01s" to="1" fill="freeze"/>
+        <animate attributeName="opacity" begin="1.77s" dur=".01s" to="0" fill="freeze"/>
+      </text>
+
+      <text x="76" y="225" opacity="0">Solym
+        <animate attributeName="opacity" begin="1.77s" dur=".01s" to="1" fill="freeze"/>
+        <animate attributeName="opacity" begin="2.10s" dur=".01s" to="0" fill="freeze"/>
+      </text>
+
+      <text x="76" y="225" opacity="0">Solyma
+        <animate attributeName="opacity" begin="2.10s" dur=".01s" to="1" fill="freeze"/>
+        <animate attributeName="opacity" begin="2.43s" dur=".01s" to="0" fill="freeze"/>
+      </text>
+
+      <text x="76" y="225" opacity="0">Solyman
+        <animate attributeName="opacity" begin="2.43s" dur=".01s" to="1" fill="freeze"/>
+        <animate attributeName="opacity" begin="2.76s" dur=".01s" to="0" fill="freeze"/>
+      </text>
+
+      <text x="76" y="225" opacity="0">Solyman W
+        <animate attributeName="opacity" begin="2.76s" dur=".01s" to="1" fill="freeze"/>
+        <animate attributeName="opacity" begin="3.09s" dur=".01s" to="0" fill="freeze"/>
+      </text>
+
+      <text x="76" y="225" opacity="0">Solyman Wa
+        <animate attributeName="opacity" begin="3.09s" dur=".01s" to="1" fill="freeze"/>
+        <animate attributeName="opacity" begin="3.42s" dur=".01s" to="0" fill="freeze"/>
+      </text>
+
+      <text x="76" y="225" opacity="0">Solyman Was
+        <animate attributeName="opacity" begin="3.42s" dur=".01s" to="1" fill="freeze"/>
+        <animate attributeName="opacity" begin="3.75s" dur=".01s" to="0" fill="freeze"/>
+      </text>
+
+      <text x="76" y="225" opacity="0">Solyman Wasi
+        <animate attributeName="opacity" begin="3.75s" dur=".01s" to="1" fill="freeze"/>
+        <animate attributeName="opacity" begin="4.08s" dur=".01s" to="0" fill="freeze"/>
+      </text>
+
+      <text x="76" y="225" opacity="0">Solyman Wasif
+        <animate attributeName="opacity" begin="4.08s" dur=".01s" to="1" fill="freeze"/>
+      </text>
+    </g>
+
+    <!-- Main typing cursor -->
+    <rect x="78" y="153" width="7" height="78" rx="2"
+          fill="#00eaff" filter="url(#glow)"
+          opacity="0" class="blink">
+      <animate attributeName="opacity" begin=".45s" dur=".01s" to="1" fill="freeze"/>
+      <animate attributeName="opacity" begin="4.65s" dur=".01s" to="0" fill="freeze"/>
+    </rect>
+
+    <!-- Identity -->
+    <text x="80" y="292"
+          fill="#eef5fb"
+          class="role"
+          opacity="0">
+      I am <tspan fill="url(#accent)">Full Stack Developer.</tspan>
+      <animate attributeName="opacity"
+               begin="4.75s" dur=".45s" to="1" fill="freeze"/>
+    </text>
+
+    <!-- Accent line -->
+    <rect x="80" y="315" width="0" height="3"
+          rx="2" fill="url(#accent)" filter="url(#glow)">
+      <animate attributeName="width"
+               begin="5.25s" dur=".55s" to="415" fill="freeze"/>
+    </rect>
+
+    <!-- Description -->
+    <text x="80" y="355"
+          fill="#a7b5c2"
+          class="desc"
+          opacity="0">
+      BUILDING DIGITAL EXPERIENCES WITH CODE &amp; CURIOSITY
+      <animate attributeName="opacity"
+               begin="5.95s" dur=".45s" to="1" fill="freeze"/>
+    </text>
+
+    <!-- Short details -->
+    <g transform="translate(80 392)" opacity="0">
+
+      <rect width="92" height="32" rx="16"
+            fill="#071624" stroke="#00eaff" stroke-opacity=".55"/>
+      <text x="46" y="21" text-anchor="middle"
+            fill="#6ee7ff" class="badge">FRONTEND</text>
+
+      <rect x="105" width="90" height="32" rx="16"
+            fill="#071624" stroke="#9b5cff" stroke-opacity=".55"/>
+      <text x="150" y="21" text-anchor="middle"
+            fill="#c3aaff" class="badge">BACKEND</text>
+
+      <rect x="208" width="95" height="32" rx="16"
+            fill="#071624" stroke="#00eaff" stroke-opacity=".55"/>
+      <text x="255.5" y="21" text-anchor="middle"
+            fill="#6ee7ff" class="badge">DATABASE</text>
+
+      <animate attributeName="opacity"
+               begin="6.55s" dur=".5s" to="1" fill="freeze"/>
+    </g>
+  </g>
+
+  <!-- =========================================================
+       DESK
+       ========================================================= -->
+  <path d="M735 485H1600V650H735Z" fill="#03060c"/>
+  <path d="M710 485H1600"
+        stroke="#20384c" stroke-width="4"/>
+
+  <path d="M760 507H1540"
+        stroke="#00d9ff" stroke-opacity=".20"
+        filter="url(#glow)"/>
+
+  <!-- =========================================================
+       MONITOR / CODING COMPUTER
+       Meaningful code appears line-by-line.
+       ========================================================= -->
+  <g>
+    <!-- monitor -->
+    <rect x="1000" y="140" width="535" height="330" rx="16"
+          fill="#070c14"
+          stroke="#1d4058" stroke-width="4"/>
+
+    <rect x="1020" y="158" width="495" height="276" rx="10"
+          fill="#02080f" stroke="#00dcff"
+          stroke-opacity=".28" stroke-width="2"/>
+
+    <!-- screen -->
+    <rect x="1040" y="176" width="455" height="236"
+          rx="6" fill="#06131e"/>
+
+    <!-- top bar -->
+    <g class="mono">
+      <circle cx="1057" cy="191" r="4" fill="#ff4f87"/>
+      <circle cx="1071" cy="191" r="4" fill="#ffca65"/>
+      <circle cx="1085" cy="191" r="4" fill="#52efa1"/>
+      <rect x="1102" y="186" width="120" height="10"
+            rx="5" fill="#173144"/>
+    </g>
+
+    <!-- CODE AREA -->
+    <g clip-path="url(#screenClip)"
+       class="mono" font-size="10">
+
+      <!-- line numbers -->
+      <g fill="#40596c">
+        <text x="1049" y="218">01</text>
+        <text x="1049" y="236">02</text>
+        <text x="1049" y="254">03</text>
+        <text x="1049" y="272">04</text>
+        <text x="1049" y="290">05</text>
+        <text x="1049" y="308">06</text>
+        <text x="1049" y="326">07</text>
+        <text x="1049" y="344">08</text>
+        <text x="1049" y="362">09</text>
+        <text x="1049" y="380">10</text>
+        <text x="1049" y="398">11</text>
+      </g>
+
+      <!-- Each line fades in sequentially -->
+      <g opacity="0">
+        <text x="1080" y="218">
+          <tspan fill="#ffca67">const</tspan>
+          <tspan fill="#e6eef5"> app = </tspan>
+          <tspan fill="#65e8ff">createApp</tspan><tspan fill="#e6eef5">();</tspan>
+        </text>
+        <animate attributeName="opacity" begin="2.0s" dur=".35s" to="1" fill="freeze"/>
+      </g>
+
+      <g opacity="0">
+        <text x="1080" y="236">
+          <tspan fill="#ffca67">async function</tspan>
+          <tspan fill="#63d7ff"> buildProject</tspan><tspan fill="#e6eef5">() {</tspan>
+        </text>
+        <animate attributeName="opacity" begin="2.35s" dur=".35s" to="1" fill="freeze"/>
+      </g>
+
+      <g opacity="0">
+        <text x="1080" y="254">
+          <tspan fill="#a679ff">const</tspan>
+          <tspan fill="#e6eef5"> user = </tspan>
+          <tspan fill="#63f2a0">await</tspan>
+          <tspan fill="#e6eef5"> api.</tspan>
+          <tspan fill="#61dfff">getUser</tspan><tspan fill="#e6eef5">();</tspan>
+        </text>
+        <animate attributeName="opacity" begin="2.70s" dur=".35s" to="1" fill="freeze"/>
+      </g>
+
+      <g opacity="0">
+        <text x="1080" y="272">
+          <tspan fill="#d88cff">const</tspan>
+          <tspan fill="#e6eef5"> data = </tspan>
+          <tspan fill="#61dfff">transform</tspan><tspan fill="#e6eef5">(user);</tspan>
+        </text>
+        <animate attributeName="opacity" begin="3.05s" dur=".35s" to="1" fill="freeze"/>
+      </g>
+
+      <g opacity="0">
+        <text x="1080" y="290">
+          <tspan fill="#63f2a0">if</tspan>
+          <tspan fill="#e6eef5"> (data.valid) {'{'}</tspan>
+        </text>
+        <animate attributeName="opacity" begin="3.40s" dur=".35s" to="1" fill="freeze"/>
+      </g>
+
+      <g opacity="0">
+        <text x="1097" y="308">
+          <tspan fill="#61dfff">database</tspan>
+          <tspan fill="#e6eef5">.</tspan>
+          <tspan fill="#ffca67">save</tspan>
+          <tspan fill="#e6eef5">(data);</tspan>
+        </text>
+        <animate attributeName="opacity" begin="3.75s" dur=".35s" to="1" fill="freeze"/>
+      </g>
+
+      <g opacity="0">
+        <text x="1097" y="326">
+          <tspan fill="#61dfff">return</tspan>
+          <tspan fill="#e6eef5"> api.</tspan>
+          <tspan fill="#7df5a4">success</tspan><tspan fill="#e6eef5">(data);</tspan>
+        </text>
+        <animate attributeName="opacity" begin="4.10s" dur=".35s" to="1" fill="freeze"/>
+      </g>
+
+      <g opacity="0">
+        <text x="1080" y="344">
+          <tspan fill="#e6eef5">{'}'}</tspan>
+        </text>
+        <animate attributeName="opacity" begin="4.45s" dur=".35s" to="1" fill="freeze"/>
+      </g>
+
+      <g opacity="0">
+        <text x="1080" y="362">
+          <tspan fill="#ffca67">await</tspan>
+          <tspan fill="#e6eef5"> app.</tspan>
+          <tspan fill="#63dfff">listen</tspan>
+          <tspan fill="#e6eef5">(</tspan>
+          <tspan fill="#72f0a2">3000</tspan>
+          <tspan fill="#e6eef5">);</tspan>
+        </text>
+        <animate attributeName="opacity" begin="4.80s" dur=".35s" to="1" fill="freeze"/>
+      </g>
+
+      <g opacity="0">
+        <text x="1080" y="380">
+          <tspan fill="#8b79ff">// build. learn. ship.</tspan>
+        </text>
+        <animate attributeName="opacity" begin="5.15s" dur=".35s" to="1" fill="freeze"/>
+      </g>
+
+      <rect x="1260" y="376" width="6" height="12"
+            fill="#00eaff" class="blink"
+            opacity="0">
+        <animate attributeName="opacity"
+                 begin="5.5s" dur=".2s" to="1" fill="freeze"/>
+      </rect>
+    </g>
+
+    <!-- monitor stand -->
+    <path d="M1225 472h85l18 58h-122Z"
+          fill="#09131d" stroke="#1c3b50" stroke-width="3"/>
+    <rect x="1165" y="528" width="205" height="13" rx="6"
+          fill="#0a1621" stroke="#1e4057"/>
+
+    <!-- keyboard -->
+    <g transform="translate(970 550)">
+      <polygon points="0,0 430,0 485,67 45,67"
+               fill="#050b12" stroke="#21465e" stroke-width="3"/>
+      <g fill="#123149">
+        <path d="M22 13h29v7H22zM58 13h29v7H58zM94 13h29v7H94zM130 13h29v7H130zM166 13h29v7H166zM202 13h29v7H202zM238 13h29v7H238zM274 13h29v7H274zM310 13h29v7H310zM346 13h29v7H346zM382 13h29v7H382z"/>
+        <path d="M40 31h30v7H40zM77 31h30v7H77zM114 31h30v7H114zM151 31h30v7H151zM188 31h30v7H188zM225 31h30v7H225zM262 31h30v7H262zM299 31h30v7H299zM336 31h30v7H336zM373 31h50v7H373z"/>
+        <path d="M72 49h48v7H72zM126 49h155v7H126zM289 49h62v7H289zM359 49h55v7H359z"/>
+      </g>
+    </g>
+
+    <!-- laptop -->
+    <g transform="translate(760 425)">
+      <polygon points="0,0 175,-15 198,98 18,108"
+               fill="#08111b" stroke="#1f435b" stroke-width="3"/>
+      <polygon points="9,10 166,-2 184,84 25,93"
+               fill="#030911"/>
+      <path d="M-15 110l215-18 42 23q4 7-10 10l-227 18Z"
+            fill="#08131e" stroke="#21465e" stroke-width="3"/>
+      <path d="M74 37l26 0M87 24v26" stroke="#00eaff" stroke-width="3"
+            opacity=".8" filter="url(#glow)"/>
+      <path d="M68 50l15-15 15 15" fill="none"
+            stroke="#00eaff" stroke-width="3"/>
+    </g>
+  </g>
+
+  <!-- Subtle frame -->
+  <rect x="18" y="18" width="1564" height="614"
+        rx="22" fill="none"
+        stroke="#1b3a50" stroke-width="2"/>
+
+  <path d="M48 48h75M48 48v75
+           M1552 48h-75M1552 48v75
+           M48 602h75M48 602v-75
+           M1552 602h-75M1552 602v-75"
+        fill="none" stroke="#00dfff"
+        stroke-width="2" opacity=".6"
+        filter="url(#glow)"/>
+</svg>
