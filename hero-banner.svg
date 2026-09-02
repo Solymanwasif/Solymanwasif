@@ -1,0 +1,252 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 520" width="100%" height="100%" preserveAspectRatio="xMidYMid slice" role="img" aria-labelledby="title desc">
+  <title id="title">Solyman Wasif — Full Stack Developer</title>
+  <desc id="desc">Animated futuristic developer workspace with an animated introduction.</desc>
+
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090514"/>
+      <stop offset="40%" stop-color="#0f0c24"/>
+      <stop offset="100%" stop-color="#1b123a"/>
+    </linearGradient>
+
+    <linearGradient id="skyGrad" x1="0%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#130b2b"/>
+      <stop offset="70%" stop-color="#080417"/>
+      <stop offset="100%" stop-color="#030107"/>
+    </linearGradient>
+
+    <linearGradient id="cyberGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f2fe" stop-opacity=".15"/>
+      <stop offset="100%" stop-color="#4facfe" stop-opacity=".05"/>
+    </linearGradient>
+
+    <linearGradient id="neonPink" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff007f"/>
+      <stop offset="100%" stop-color="#7900ff"/>
+    </linearGradient>
+
+    <linearGradient id="neonCyan" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f2fe"/>
+      <stop offset="100%" stop-color="#0072ff"/>
+    </linearGradient>
+
+    <radialGradient id="screenGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00f2fe" stop-opacity=".25"/>
+      <stop offset="100%" stop-color="#7900ff" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="lampCone" x1="50%" y1="0%" x2="30%" y2="100%">
+      <stop offset="0%" stop-color="#ffea88" stop-opacity=".4"/>
+      <stop offset="30%" stop-color="#ffaa44" stop-opacity=".15"/>
+      <stop offset="100%" stop-color="#ffaa44" stop-opacity="0"/>
+    </linearGradient>
+
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <style>
+      .text-base {
+        fill:#fff;
+        font-family:Inter,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
+      }
+
+      .line-welcome,.line-name,.line-title {
+        opacity:0;
+        transform-box:fill-box;
+        transform-origin:center;
+        animation:fadeInUp 1s cubic-bezier(.16,1,.3,1) forwards;
+      }
+
+      .line-welcome {
+        font-size:28px;
+        font-weight:300;
+        fill:#a5a1b8;
+        letter-spacing:2px;
+        animation-delay:.2s;
+      }
+
+      .line-name {
+        font-size:76px;
+        font-weight:800;
+        letter-spacing:-1px;
+        animation-delay:.5s;
+      }
+
+      .name-accent {
+        fill:#00f2fe;
+        filter:drop-shadow(0 0 8px rgba(0,242,254,.6));
+      }
+
+      .line-title {
+        font-size:34px;
+        font-style:italic;
+        font-weight:400;
+        fill:#b1abc9;
+        animation-delay:1.1s;
+      }
+
+      .star { animation:pulseStar 3s infinite ease-in-out; transform-box:fill-box; transform-origin:center; }
+      .star-delayed { animation:pulseStar 4s infinite ease-in-out 1.5s; transform-box:fill-box; transform-origin:center; }
+      .city-light { animation:blinkLight 5s infinite ease-in-out; }
+      .code-line { animation:codeFlow 4s infinite linear; }
+      .lamp-glow { animation:ambientFlicker 6s infinite ease-in-out; }
+      .cursor { animation:cursorBlink 1s steps(2,end) infinite; }
+
+      @keyframes fadeInUp {
+        from { opacity:0; transform:translateY(35px); }
+        to { opacity:1; transform:translateY(0); }
+      }
+
+      @keyframes pulseStar {
+        0%,100% { opacity:.2; transform:scale(.8); }
+        50% { opacity:.9; transform:scale(1.2); }
+      }
+
+      @keyframes blinkLight {
+        0%,100% { opacity:.35; }
+        50% { opacity:.95; }
+      }
+
+      @keyframes ambientFlicker {
+        0%,100% { opacity:.95; }
+        45% { opacity:1; }
+        50% { opacity:.92; }
+        55% { opacity:.98; }
+      }
+
+      @keyframes codeFlow {
+        from { stroke-dashoffset:0; }
+        to { stroke-dashoffset:-80; }
+      }
+
+      @keyframes cursorBlink {
+        0%,45% { opacity:1; }
+        46%,100% { opacity:0; }
+      }
+    </style>
+  </defs>
+
+  <!-- BACKGROUND -->
+  <rect width="1600" height="520" fill="url(#bgGrad)"/>
+
+  <!-- SUBTLE AMBIENT GLOW -->
+  <ellipse cx="410" cy="270" rx="430" ry="260" fill="#7900ff" opacity=".08"/>
+  <ellipse cx="1260" cy="340" rx="420" ry="260" fill="#00f2fe" opacity=".06"/>
+
+  <!-- RIGHT-SIDE WINDOW / CITY -->
+  <g id="window-scene" transform="translate(850,0)">
+    <rect x="0" y="30" width="700" height="420" rx="15" fill="url(#skyGrad)"/>
+
+    <circle cx="100" cy="90" r="1.5" fill="#fff" class="star"/>
+    <circle cx="280" cy="70" r="2" fill="#ffe3a0" class="star-delayed"/>
+    <circle cx="450" cy="120" r="1" fill="#fff" class="star"/>
+    <circle cx="620" cy="80" r="1.5" fill="#fff" class="star-delayed"/>
+    <circle cx="520" cy="165" r="1" fill="#fff" class="star"/>
+
+    <!-- City -->
+    <rect x="50" y="220" width="80" height="230" fill="#0b061d"/>
+    <rect x="65" y="240" width="10" height="15" fill="#ff007f" opacity=".6" class="city-light"/>
+    <rect x="95" y="270" width="10" height="15" fill="#00f2fe" opacity=".4" class="city-light"/>
+    <rect x="65" y="310" width="10" height="15" fill="#fff" opacity=".5" class="city-light"/>
+
+    <path d="M190 450V150l20-30 20 30v300Z" fill="#080415"/>
+    <line x1="210" y1="120" x2="210" y2="450" stroke="url(#neonPink)" stroke-width="2" opacity=".7"/>
+    <circle cx="210" cy="115" r="3" fill="#ff007f" class="city-light"/>
+
+    <rect x="290" y="260" width="110" height="190" fill="#0d0822"/>
+    <rect x="310" y="290" width="25" height="8" fill="#00f2fe" opacity=".6" class="city-light"/>
+    <rect x="350" y="290" width="25" height="8" fill="#00f2fe" opacity=".6" class="city-light"/>
+    <rect x="310" y="320" width="25" height="8" fill="#7900ff" opacity=".5" class="city-light"/>
+    <rect x="350" y="340" width="25" height="8" fill="#fff" opacity=".7" class="city-light"/>
+
+    <rect x="460" y="180" width="90" height="270" fill="#090518"/>
+    <path d="M460 180l90 50v220h-90Z" fill="#060312"/>
+    <rect x="490" y="220" width="12" height="30" fill="url(#neonCyan)" opacity=".5" class="city-light"/>
+
+    <rect x="575" y="260" width="55" height="190" fill="#080416"/>
+    <rect x="590" y="290" width="18" height="7" fill="#ff007f" opacity=".6" class="city-light"/>
+    <rect x="590" y="320" width="18" height="7" fill="#00f2fe" opacity=".5" class="city-light"/>
+
+    <rect x="0" y="30" width="700" height="420" rx="15" fill="url(#cyberGlow)" stroke="#1a153b" stroke-width="8"/>
+    <line x1="330" y1="30" x2="330" y2="450" stroke="#1c1642" stroke-width="6"/>
+  </g>
+
+  <!-- SCREEN LIGHT -->
+  <circle cx="1250" cy="380" r="350" fill="url(#screenGlow)"/>
+
+  <!-- WORKSPACE -->
+  <g id="workspace" transform="translate(1000,240)">
+    <polygon points="-150,210 550,210 550,280 -150,280" fill="#0b091a" stroke="#1d1936" stroke-width="2"/>
+
+    <!-- Monitor -->
+    <rect x="20" y="20" width="320" height="150" rx="8" fill="#05030a" stroke="#252142" stroke-width="4"/>
+    <rect x="31" y="31" width="298" height="128" rx="4" fill="#070a16"/>
+    <polygon points="160,170 200,170 210,210 150,210" fill="#120f24"/>
+
+    <!-- Code -->
+    <g opacity=".85">
+      <line x1="45" y1="55" x2="180" y2="55" stroke="#00f2fe" stroke-width="6" stroke-linecap="round" stroke-dasharray="10 15 30 10" class="code-line"/>
+      <line x1="45" y1="78" x2="275" y2="78" stroke="#ff007f" stroke-width="6" stroke-linecap="round" stroke-dasharray="40 20 10 20" class="code-line" style="animation-duration:6s"/>
+      <line x1="45" y1="101" x2="145" y2="101" stroke="#fff" stroke-width="4" stroke-linecap="round" stroke-dasharray="20 10 5 15" class="code-line" style="animation-duration:3s"/>
+      <line x1="45" y1="124" x2="295" y2="124" stroke="#00f2fe" stroke-width="5" stroke-linecap="round" stroke-dasharray="50 15 30 10" class="code-line" style="animation-duration:5s"/>
+      <line x1="45" y1="145" x2="205" y2="145" stroke="#7900ff" stroke-width="6" stroke-linecap="round" stroke-dasharray="15 10 40 10" class="code-line"/>
+    </g>
+
+    <!-- Lamp -->
+    <path d="M420 210L400 100 350 80" fill="none" stroke="#1d1936" stroke-width="6" stroke-linecap="round"/>
+    <path d="M320 95C320 70 370 70 370 95Z" fill="#ffaa44" transform="rotate(-25 345 85)"/>
+    <polygon points="325,95 180,210 480,210" fill="url(#lampCone)" class="lamp-glow"/>
+  </g>
+
+  <!-- DEVELOPER -->
+  <g id="developer" transform="translate(1060,310)">
+    <path d="M40 140Q20 50 60 30q50-15 80 20 30 40 20 90Z" fill="#141126"/>
+    <path d="M40 140Q25 65 60 40" fill="none" stroke="#1f1a3a" stroke-width="4"/>
+
+    <!-- Hood -->
+    <path d="M60 35C50 0 130-5 135 30c5 25-15 35-40 35S65 50 60 35Z" fill="#1b1733" stroke="#0f0c22"/>
+    <path d="M75 35C70 15 120 15 125 32c0 16-15 23-27 23S80 48 75 35Z" fill="#0a0815"/>
+    <path d="M82 32c0-7 30-7 30 0 0 10-15 16-15 16S82 42 82 32Z" fill="#ffeedd" opacity=".25"/>
+
+    <!-- Arms -->
+    <path d="M40 140Q60 110 90 115" fill="none" stroke="#141126" stroke-width="26" stroke-linecap="round"/>
+    <path d="M150 140Q130 110 110 115" fill="none" stroke="#141126" stroke-width="26" stroke-linecap="round"/>
+
+    <!-- Hands -->
+    <circle cx="88" cy="115" r="7" fill="#d9c5b8" opacity=".75"/>
+    <circle cx="112" cy="115" r="7" fill="#d9c5b8" opacity=".75"/>
+
+    <!-- Keyboard -->
+    <rect x="76" y="117" width="48" height="12" rx="3" fill="#090812" stroke="#2c2548"/>
+    <line x1="82" y1="121" x2="118" y2="121" stroke="#00f2fe" stroke-width="1.5" opacity=".8"/>
+    <line x1="84" y1="125" x2="116" y2="125" stroke="#7900ff" stroke-width="1.5" opacity=".7"/>
+  </g>
+
+  <!-- LEFT TEXT PANEL -->
+  <g id="intro" transform="translate(95,0)">
+    <text x="0" y="180" class="text-base line-welcome">Hello, I am</text>
+
+    <text x="0" y="270" class="text-base line-name">
+      <tspan>Solyman </tspan><tspan class="name-accent">Wasif</tspan>
+    </text>
+
+    <text x="0" y="325" class="text-base line-title">I am Full Stack Developer.</text>
+
+    <rect x="0" y="350" width="58" height="3" rx="1.5" fill="#00f2fe" opacity=".8" filter="url(#softGlow)"/>
+    <rect x="66" y="350" width="18" height="3" rx="1.5" fill="#ff007f" opacity=".8"/>
+    <rect x="92" y="350" width="8" height="3" rx="1.5" fill="#7900ff" opacity=".8"/>
+
+    <text x="0" y="390" class="text-base" font-size="15" fill="#77718f" letter-spacing="1.5">
+      Building interfaces • Learning • Creating
+    </text>
+  </g>
+
+  <!-- VIGNETTE / BORDER -->
+  <rect x="8" y="8" width="1584" height="504" rx="22" fill="none" stroke="#30265a" stroke-width="2" opacity=".65"/>
+  <rect x="0" y="0" width="1600" height="520" fill="none" stroke="#05030b" stroke-width="24" opacity=".45"/>
+</svg>
