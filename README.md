@@ -5,43 +5,11 @@
 </div>
 
 ---
-<p align="center">
-  <img src="Hero-Banner.svg" alt="Solyman Wasif Hero Banner" width="100%" />
-</p>
+<div align="center">
 
-## ⚡ CURRENT FOCUS
+![Current Focus](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1200&color=00E5FF&center=true&vCenter=true&width=800&lines=⚡+Current+Focus;🚀+Frontend+Development;⚛️+React+Development;🟦+TypeScript;🟢+Node.js;🎯+Growing+Toward+Full-Stack+Development)
 
-<p align="center">
-  <i>Building my foundation today. Growing toward Full-Stack tomorrow.</i>
-</p>
-
-<p align="center">
-  <b>🎨 Frontend Development</b>
-  &nbsp; → &nbsp;
-  <b>⚛️ React</b>
-  &nbsp; → &nbsp;
-  <b>🟢 Node.js</b>
-  &nbsp; → &nbsp;
-  <b>🚀 Full-Stack</b>
-</p>
-
----
-
-### 🎯 Currently Learning
-
-- ⚛️ React — Components, JSX, Props, State, APIs, `useState`, `useEffect`
-- 🟢 Node.js — Backend fundamentals, APIs, Async/Await
-- 🧠 Strengthening problem-solving and development fundamentals
-
-### 🧭 My Direction
-
-**Frontend-focused Developer → React → Node.js → Full-Stack Development**
-
-> **Think critically. Solve creatively. Keep learning.**
-
-
----
-
+</div>
 ## 🎮 **ABOUT ME** [LEVEL: BEGINNER] 🎮
 
 <img align="right" src="https://img.shields.io/badge/Status-Learning%20Mode%20ON-ff69b4?style=for-the-badge&logo=rocket&logoColor=white">
