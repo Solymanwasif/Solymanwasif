@@ -5,6 +5,9 @@
 </div>
 
 ---
+<p align="center">
+  <img src="assets/hero-banner.svg" alt="Solyman Wasif Hero Banner" width="100%" />
+</p>
 
 <div align="center">
 
