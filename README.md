@@ -224,7 +224,7 @@ Currently Mastering:
 
 ### 🎯 FOCUS AREAS
 
-![Focus Areas](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=23&duration=3000&pause=1200&color=A371F7&left=true&vCenter=true&width=330&height=150&multiline=true&lines=%F0%9F%9B%92+E-Commerce+UI;%F0%9F%93%B1+Responsive+Design;%F0%9F%8E%A8+Clean+Visual+Design;%E2%9A%A1+Interactive+UX)
+![Focus Areas](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=23&duration=3000&pause=1200&color=A371F7&left=true&vCenter=true&width=330&height=150&multiline=true&lines=%F0%9F%9B%92;E-Commerce+UI;%F0%9F%93%B1+Responsive+Design;%F0%9F%8E%A8+Clean+Visual+Design;%E2%9A%A1+Interactive+UX)
 
 <br>
 
