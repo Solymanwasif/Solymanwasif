@@ -151,7 +151,7 @@ Currently Mastering:
   - 🛍️ E-commerce UI Patterns
   - 💻 Cross-device Compatibility
 
-[🔗 View Repository](https://github.com/Solymanwasif](https://github.com/Solymanwasif/Nature-s-platter-shop )
+[🔗 View Repository](https://github.com/Solymanwasif/Nature-s-platter-shop)
 
 </div>
 
