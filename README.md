@@ -31,14 +31,14 @@
 ## 🧑‍💻 About Me
 
 <!-- Replace this with your actual coding GIF -->
-<!--
+
 <img
   align="right"
   width="38%"
   src="assets/coding.gif"
   alt="Coding animation"
 />
--->
+
 
 ```javascript
 const solyman = {
