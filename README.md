@@ -327,10 +327,22 @@ width="42%"
 
 ## 🎮 Gaming
 
+
+
+<p align="center">
+  <img
+    src="assets/code-game.svg"
+    alt="Code Dragon — Developer Quest"
+    width="100%"
+  />
+</p>
+
+### 🎮 Gaming
+
 ```text
 🏆 Main Game  →  Free Fire
-🎯 Genres     →  Open-World  •  Story-Driven  •  Strategy
-💡 Gaming sharpens: problem-solving, focus & creative thinking
+🎯 Genres     →  Open-World • Story-Driven • Strategy
+💡 Gaming sharpens → Problem-solving • Focus • Creative Thinking
 ```
 
 ---
