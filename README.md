@@ -325,26 +325,7 @@ width="42%"
 
 ---
 
-## 🎮 Gaming
 
-
-
-<p align="center">
-  <img 
-    src="assets/gemini-svg.svg"
-    alt="Code Dragon — Developer Quest"
-   width="1400" height="650" viewBox="0 0 1400 650"
-  />
-</p>
-
-### 🎮 Gaming
-
-```text
-🏆 Main Game  →  Free Fire
-🎯 Genres     →  Open-World • Story-Driven • Strategy
-💡 Gaming sharpens → Problem-solving • Focus • Creative Thinking
-```
----
 
 ## 📫 Let's Connect
 
@@ -362,8 +343,13 @@ width="42%"
 
 ---
 
-<div align="center">
-
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
+</p>
 <div align="center">
 
 <img
