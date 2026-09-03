@@ -28,19 +28,6 @@
 
 ---
 
-## 🧑‍💻 About Me
-
-<!-- Replace this with your actual coding GIF -->
-
-<div align="center">
-
-<img
-  src="assets/coding.gif"
-  alt="Coding animation"
-  width="60%"
-/>
-
-</div>
 
 ```javascript
 const solyman = {
@@ -118,20 +105,39 @@ const solyman = {
 
 ## 📈 Learning Roadmap
 
-| Skill               |      Progress     |     Status     |
-| :------------------ | :---------------: | :------------: |
-| HTML & CSS          | `██████████` 100% |   ✅ Mastered   |
-| JavaScript          |  `█████████░` 95% |   ✅ Mastered   |
-| TypeScript          |  `████████░░` 85% |   ✅ Completed  |
-| React Fundamentals  |  `████████░░` 80% |    🟢 Active   |
-| React Hooks         |  `███████░░░` 75% |    🟢 Active   |
-| API & Data Fetching |  `██████░░░░` 60% | 🟡 In Progress |
-| Node.js             |  `█████░░░░░` 50% | 🟡 In Progress |
-| Next.js             |  `░░░░░░░░░░` 0%  |   📅 Upcoming  |
-| Express.js          |  `░░░░░░░░░░` 0%  |   📅 Upcoming  |
-| MongoDB             |  `░░░░░░░░░░` 0%  |   📅 Upcoming  |
+|## 📈 Learning Roadmap
 
----
+<table>
+  <tr>
+    <!-- LEFT: LEARNING ROADMAP -->
+    <td width="65%" valign="top">
+
+| Skill | Progress | Status |
+| :--- | :---: | :---: |
+| HTML & CSS | `██████████` 100% | ✅ Mastered |
+| JavaScript | `█████████░` 95% | ✅ Mastered |
+| TypeScript | `████████░░` 85% | ✅ Completed |
+| React Fundamentals | `████████░░` 80% | 🟢 Active |
+| React Hooks | `███████░░░` 75% | 🟢 Active |
+| API & Data Fetching | `██████░░░░` 60% | 🟡 In Progress |
+| Node.js | `█████░░░░░` 50% | 🟡 In Progress |
+| Next.js | `░░░░░░░░░░` 0% | 📅 Upcoming |
+| Express.js | `░░░░░░░░░░` 0% | 📅 Upcoming |
+| MongoDB | `░░░░░░░░░░` 0% | 📅 Upcoming |
+
+ </td>
+
+    <!-- RIGHT: CODING GIF -->
+<td width="35%" align="center" valign="middle">
+
+<img
+  src="assets/coding.gif"
+  alt="Coding animation"
+  width="280px"
+/>
+    </td>
+  </tr>
+</table>-=
 
 ## 🚀 Featured Projects
 
