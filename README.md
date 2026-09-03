@@ -299,7 +299,11 @@ width="100%"
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Solymanwasif\&theme=radical\&no-frame=true\&no-bg=true\&margin-w=6\&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<img
+  src="assets/github-trophies.svg"
+  alt="GitHub Trophies"
+  width="100%"
+/>
 
 </div>
 
