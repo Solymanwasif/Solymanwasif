@@ -32,13 +32,15 @@
 
 <!-- Replace this with your actual coding GIF -->
 
+<div align="center">
+
 <img
-  align="right"
-  width="38%"
   src="assets/coding.gif"
   alt="Coding animation"
+  width="60%"
 />
 
+</div>
 
 ```javascript
 const solyman = {
