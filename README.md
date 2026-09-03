@@ -272,23 +272,23 @@ width="100%"
 <div align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=Solymanwasif&show_icons=true&theme=radical&hide_border=true&rank_icon=github&bg_color=0d1117"
-alt="GitHub Stats"
-width="49%"
+  src="assets/github-stats.svg"
+  alt="GitHub Stats"
+  width="60%"
 />
-
+---
 <img
-src="https://github-readme-streak-stats.herokuapp.com?user=Solymanwasif&theme=radical&hide_border=true&background=0d1117"
-alt="GitHub Streak"
-width="49%"
+  src="https://github-readme-streak-stats.herokuapp.com?user=Solymanwasif&theme=radical&hide_border=true&background=0d1117"
+  alt="GitHub Streak"
+  width="60%"
 />
 
 <br><br>
-
+--
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solymanwasif&layout=compact&theme=radical&hide_border=true&bg_color=0d1117"
-alt="Top Languages"
-width="42%"
+  src="assets/top-langs.svg"
+  alt="Top Languages"
+  width="60%"
 />
 
 </div>
