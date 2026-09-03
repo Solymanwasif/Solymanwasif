@@ -105,7 +105,7 @@ const solyman = {
 
 ## 📈 Learning Roadmap
 
-|## 📈 Learning Roadmap
+
 
 <table>
   <tr>
@@ -128,7 +128,7 @@ const solyman = {
  </td>
 
     <!-- RIGHT: CODING GIF -->
-<td width="35%" align="center" valign="middle">
+<td width="35%" height="100px" align="center" valign="middle">
 
 <img
   src="assets/coding.gif"
