@@ -313,10 +313,15 @@ width="100%"
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Solymanwasif\&theme=react-dark\&hide_border=true\&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img
+  src="assets/activity-graph.svg"
+  alt="GitHub Contribution Activity"
+  width="100%"
+/>
 
 </div>
 
+---
 ---
 
 ## 🤖 Learning Philosophy
