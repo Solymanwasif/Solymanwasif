@@ -330,10 +330,10 @@ width="42%"
 
 
 <p align="center">
-  <img
-    src="assets/code-game.svg"
+  <img 
+    src="assets/gemini-svg.svg"
     alt="Code Dragon — Developer Quest"
-    width="100%"
+   width="1400" height="650" viewBox="0 0 1400 650"
   />
 </p>
 
@@ -344,7 +344,6 @@ width="42%"
 🎯 Genres     →  Open-World • Story-Driven • Strategy
 💡 Gaming sharpens → Problem-solving • Focus • Creative Thinking
 ```
-
 ---
 
 ## 📫 Let's Connect
@@ -364,7 +363,6 @@ width="42%"
 ---
 
 <div align="center">
-<!-- Footer Wave -->
 
 <div align="center">
 
