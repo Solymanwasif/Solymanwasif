@@ -109,7 +109,6 @@ const solyman = {
 
 <table>
   <tr>
-    <!-- LEFT: LEARNING ROADMAP -->
     <td width="65%" valign="top">
 
 | Skill | Progress | Status |
@@ -127,7 +126,6 @@ const solyman = {
 
  </td>
 
-    <!-- RIGHT: CODING GIF -->
 <td width="35%" height="100px" align="center" valign="middle">
 
 <img
@@ -137,7 +135,7 @@ const solyman = {
 />
     </td>
   </tr>
-</table>-=
+</table>
 
 ## 🚀 Featured Projects
 
