@@ -126,14 +126,32 @@ const solyman = {
 
  </td>
 
+
+
 <td width="35%" height="100px" align="center" valign="middle">
+
+<img
+  src="assets/coding-title.svg"
+  alt="Currently Coding"
+  width="280px"
+/>
+
+<p>
+  Exploring new technologies, building projects,<br>
+  and improving my development skills every day.
+</p>
 
 <img
   src="assets/coding.gif"
   alt="Coding animation"
   width="280px"
 />
-    </td>
+
+<p>
+  <strong>Building today, becoming better tomorrow. 🚀</strong>
+</p>
+
+</td>
   </tr>
 </table>
 
