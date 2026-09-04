@@ -136,23 +136,17 @@ const solyman = {
   width="280px"
 />
 
-<p>
-  Exploring new technologies, building projects,<br>
-  and improving my development skills every day.
-</p>
 
 <img
   src="assets/coding.gif"
   alt="Coding animation"
   width="280px"
 />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=4000&pause=1500&color=A371F7&center=true&vCenter=true&repeat=true&width=320&height=70&lines=💻+Exploring+web+tech+every+day;🚀+Building+real-world+projects;🧠+Learning+something+new+daily;🌱+Growing+through+each+project)](https://git.io/typing-svg)
 
-<p>
-  <strong>Building today, becoming better tomorrow. 🚀</strong>
-</p>
 
 </td>
-  </tr>
+</tr>
 </table>
 
 ## 🚀 Featured Projects
