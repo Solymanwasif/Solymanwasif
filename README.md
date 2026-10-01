@@ -1,5 +1,6 @@
 <div align="center">
 
+
 <!-- ═══════════════════════════ HERO SECTION ═══════════════════════════ -->
 
 
@@ -19,30 +20,24 @@ width="100%"
 <br><br>
 
 
+<!-- ═══════════════════════════ PROFILE BADGES ═══════════════════════════ -->
+
+
+<div align="center">
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Solymanwasif&color=00E5FF&style=flat-square&label=Profile+Views)
-
 &nbsp;
-
-![Location](https://img.shields.io/badge/📍-Bangladesh-0d1117?style=flat-square)
-
+![Location](https://img.shields.io/badge/📍_Bangladesh-0d1117?style=flat-square)
 &nbsp;
-
-![Status](https://img.shields.io/badge/🟢-Open_to_Internship-3FB950?style=flat-square)
-
+![Status](https://img.shields.io/badge/🟢_Open_to_Internship-3FB950?style=flat-square)
 &nbsp;
-
-![Focus](https://img.shields.io/badge/🎯-Frontend_Development-58A6FF?style=flat-square)
-
+![Focus](https://img.shields.io/badge/🎯_Frontend_Development-58A6FF?style=flat-square)
 &nbsp;
-
-![Learning](https://img.shields.io/badge/📚-React_&_Node.js-A371F7?style=flat-square)
-
+![Learning](https://img.shields.io/badge/📚_React_&_Node.js-A371F7?style=flat-square)
 
 </div>
-
-
+</div>
 ---
-
 
 ## 👨‍💻 Developer Profile
 
@@ -99,57 +94,134 @@ const solyman = {
 };
 ```
 
-# 📈 Learning Roadmap
+<table>
+
+<tr>
+
+
+<td width="60%" valign="top">
+
+
+# 🛠️ Tech Stack
+
+
+<div align="center">
+
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,mongodb,firebase,git,github,vscode,figma" />
+
+
+</div>
+
+
+<br>
+
+
+## ⚡ Technologies I Work With
 
 
 <table>
 
 <tr>
 
-<td width="65%" valign="top">
+<td align="center" width="33%">
+
+🌐  
+<b>Frontend</b>
+
+<br><br>
+
+HTML5  
+CSS3  
+JavaScript  
+TypeScript  
+React.js  
+Tailwind CSS
+
+</td>
 
 
-| Skill | Progress | Status |
-| :--- | :---: | :---: |
-| HTML & CSS | `██████████` 100% | ✅ Mastered |
-| JavaScript | `█████████░` 95% | ✅ Strong |
-| TypeScript | `████████░░` 85% | 🟢 Active |
-| React Fundamentals | `████████░░` 80% | 🟢 Active |
-| React Hooks | `███████░░░` 75% | 🟢 Active |
-| API & Data Fetching | `██████░░░░` 60% | 🟡 Improving |
-| Node.js | `█████░░░░░` 50% | 🟡 Learning |
-| Next.js | `██░░░░░░░░` 20% | 📚 Exploring |
-| Express.js | `██░░░░░░░░` 20% | 📚 Exploring |
-| MongoDB | `█░░░░░░░░░` 10% | 📅 Upcoming |
+<td align="center" width="33%">
+⚙️  
+<b>Backend</b>
+
+<br><br>
+
+Node.js  
+Express.js  
+REST API  
+Firebase
+
+</td>
 
 
+<td align="center" width="33%">
 
-<td width="35%" height="100px" align="center" valign="middle">
+🗄️  
+<b>Database & Tools</b>
 
-<img
-  src="assets/coding-title.svg"
-  alt="Currently Coding"
-  width="280px"
-/>
+<br><br>
+
+MongoDB  
+Git  
+GitHub  
+VS Code  
+Figma
+
+</td>
 
 
-<img
-  src="assets/coding.gif"
-  alt="Coding animation"
-  width="280px"
-/>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=4000&pause=1500&color=A371F7&center=true&vCenter=true&repeat=true&width=320&height=70&lines=💻+Exploring+web+tech+every+day;🚀+Building+real-world+projects;🧠+Learning+something+new+daily;🌱+Growing+through+each+project)](https://git.io/typing-svg)
+</tr>
+
+</table>
 
 
 </td>
+
+
+
+<td width="40%" align="center" valign="middle">
+
+
+<img
+src="assets/coding.gif"
+alt="Coding Animation"
+width="320px"
+/>
+
+
+<br><br>
+
+
+## 🚀 Skills
+
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb" />
+
+
+<br><br>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=350&height=50&lines=Frontend+Developer;React+Enthusiast;Full+Stack+Learner;Building+Real+Projects)](https://git.io/typing-svg)
+
+
+</td>
+
+
 </tr>
+
+
 </table>
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🎨 DevConf 2026 · AI CSS Enhancement Challenge
+
+## 🎨 DevConf 2026 · AI CSS Enhancement Challenge
+
+
 
 <div align="center">
+
 
 <img
 src="assets/devconf-hero.png"
@@ -157,36 +229,87 @@ alt="DevConf 2026 Hero"
 width="100%"
 />
 
+
 </div>
+
 
 <br>
 
+
+
 <table>
+
 <tr>
+
 
 <td width="30%" valign="top">
 
-### 💡 About the Project
 
-![Project Description](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono\&size=20\&duration=3500\&pause=1600\&color=00E5FF\&left=true\&vCenter=true\&width=330\&height=180\&multiline=true\&lines=Conference-themed+frontend;Built+with+HTML+CSS;JavaScript+Modern;responsive+UI+Real-world;frontend+practice+.)
+## 💡 About the Project
+
+
+A modern conference-themed frontend website built to practice responsive design, creative CSS styling, and interactive user interface development.
+
 
 <br>
 
-### 🛠️ Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
-![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+## 🛠️ Tech Stack
 
-<br><br>
 
-[![Repo](https://img.shields.io/badge/📁_View_Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Solymanwasif/b14-a1-ai-css-enhancement)
+<div align="center">
+
+
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+
+
+</div>
+
+
+<br>
+
+
+## ✨ Features
+
+
+✅ Modern conference landing page design  
+
+✅ Fully responsive layout  
+
+✅ Clean and structured HTML  
+
+✅ Custom CSS animations  
+
+✅ Interactive frontend components  
+
+✅ Mobile-friendly interface  
+
+
+<br>
+
+
+## 📦 Dependencies
+
+
+This project does not use any external dependencies.
+
+
+No package installation required
+
+
+
+
 
 </td>
 
+
+
 <td width="70%" align="center" valign="middle">
 
-### 👀 Visual Preview
+
+## 👀 Visual Preview
+
+
 
 <img
 src="assets/devconf-preview.gif"
@@ -194,20 +317,33 @@ alt="DevConf Preview"
 width="100%"
 />
 
+
+
 <br>
+
 
 <sub>✨ Interactive project preview</sub>
 
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00C7B7?style=for-the-badge\&logo=vercel\&logoColor=white)](https://b14-a1-ai-css-enhancement.vercel.app/)
+
+[![Repo](https://img.shields.io/badge/📁_View_Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Solymanwasif/b14-a1-ai-css-enhancement)
 </td>
 
+
 </tr>
+
+
 </table>
 
----
 
-### 🌿 Nature's Platter · Fresh Food E-Commerce
+---
+## 🌿 Nature's Platter · Fresh Food E-Commerce
+
+
 
 <div align="center">
+
 
 <img
 src="assets/natures-platter-hero.png"
@@ -215,36 +351,87 @@ alt="Nature's Platter Hero"
 width="100%"
 />
 
+
 </div>
+
 
 <br>
 
+
+
 <table>
+
 <tr>
+
 
 <td width="30%" valign="top">
 
-### 💡 About the Project
 
-![Project Description](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono\&size=20\&duration=3500\&pause=1600\&color=00E5FF\&left=true\&vCenter=true\&width=330\&height=180\&multiline=true\&lines=Fresh-food+e-commerce;Built+with+HTML+CSS;JavaScript+Clean;responsive+UI+Real-world;web+development)
+## 💡 About the Project
+
+
+A modern fresh food e-commerce website built to practice responsive web design, clean UI development, and interactive frontend experiences using HTML, CSS, and JavaScript.
+
 
 <br>
 
-### 🛠️ Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
-![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+## 🛠️ Tech Stack
 
-<br><br>
 
-[![Repo](https://img.shields.io/badge/📁_View_Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Solymanwasif/Nature-s-platter-shop)
+<div align="center">
+
+
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+
+
+</div>
+
+
+<br>
+
+
+## ✨ Features
+
+
+✅ Fresh food product showcase  
+
+✅ Responsive design for all devices  
+
+✅ Clean and modern user interface  
+
+✅ Interactive navigation elements  
+
+✅ Product-focused layout  
+
+✅ Mobile-friendly experience  
+
+
+<br>
+
+
+## 📦 Dependencies
+
+
+This project does not use any external dependencies.
+
+
+No package installation required
+
+
+
+
 
 </td>
 
+
+
 <td width="70%" align="center" valign="middle">
 
-### 👀 Visual Preview
+
+## 👀 Visual Preview
+
+
 
 <img
 src="assets/natures-platter-preview.gif"
@@ -252,14 +439,29 @@ alt="Nature's Platter Preview"
 width="100%"
 />
 
+
+
 <br>
+
 
 <sub>✨ Interactive project preview</sub>
 
+
+<br><br>
+
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00C7B7?style=for-the-badge\&logo=vercel\&logoColor=white)](https://natures-platter-shop.vercel.app/)
+[![Repo](https://img.shields.io/badge/📁_View_Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Solymanwasif/Nature-s-platter-shop)
+
+
 </td>
 
+
 </tr>
+
+
 </table>
+
 
 ---
 
@@ -271,11 +473,11 @@ width="100%"
 
 | 🏅 | Achievement | Details |
 | :-: | :--- | :--- |
-| ⭐ | Programming Excellence | Completed multiple frontend assignments successfully |
-| 🚀 | Project Development | Built real-world frontend applications |
-| 🎨 | Responsive Design | Created mobile-friendly interfaces |
-| 📈 | Continuous Growth | Maintaining active GitHub development journey |
-| 🤖 | AI-Assisted Learning | Using AI as a learning partner for better problem solving |
+| ⭐ | Frontend Development | Built responsive and interactive web applications |
+| 🚀 | Real-world Projects | Developed projects using modern frontend technologies |
+| 🎨 | UI Development | Created clean and user-friendly interfaces |
+| 💻 | Problem Solving | Continuously improving programming skills |
+| 🤖 | AI-Assisted Learning | Using AI tools to improve development workflow |
 
 
 </div>
@@ -322,7 +524,6 @@ width="60%"
 
 ---
 
-
 # 🏅 GitHub Trophies
 
 
@@ -361,6 +562,24 @@ width="100%"
 ---
 
 
+# 🐍 Contribution Snake
+
+
+<div align="center">
+
+
+<img
+src="https://raw.githubusercontent.com/Solymanwasif/Solymanwasif/output/github-contribution-grid-snake.svg"
+alt="GitHub Contribution Snake"
+width="100%"
+/>
+
+
+</div>
+
+
+---
+
 # 🤖 Learning Philosophy
 
 
@@ -368,6 +587,18 @@ width="100%"
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=4000&pause=1500&color=A371F7&center=true&vCenter=true&repeat=true&width=750&height=50&lines=🤖+AI+as+a+partner%2C+not+a+shortcut;💡+Understand+problems+before+solving;🔍+Keep+learning+through+building;✨+Improve+every+day+through+practice)](https://git.io/typing-svg)
+
+
+</div>
+
+
+<br>
+
+
+<div align="center">
+
+
+> "Learning by building, improving through practice, and creating solutions that make an impact."
 
 
 </div>
@@ -388,16 +619,11 @@ width="100%"
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Solymanwasif)
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_PROFILE)
-
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_LINK)
-
 
 <br><br>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&repeat=true&width=700&height=45&lines=⭐+Star+my+repositories+if+you+find+them+useful!;🚀+Let's+build+something+amazing+together!;💪+Every+expert+was+once+a+beginner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&repeat=true&width=700&height=45&lines=⭐+Explore+my+repositories;🚀+Follow+my+development+journey;💻+Let's+build+something+amazing)](https://git.io/typing-svg)
 
 
 </div>
@@ -405,20 +631,27 @@ width="100%"
 
 ---
 
+<!-- ═══════════════════════════ CONTRIBUTION SNAKE ═══════════════════════════ -->
 
-<!-- Contribution Snake -->
 
+<div align="center">
 
-<p align="center">
 
 <img
-src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg"
+src="https://raw.githubusercontent.com/Solymanwasif/Solymanwasif/output/github-contribution-grid-snake.svg"
 alt="GitHub Contribution Snake"
-width="100%"
 />
 
-</p>
 
+</div>
+
+
+
+---
+
+
+
+<!-- ═══════════════════════════ FOOTER WAVE ═══════════════════════════ -->
 
 
 <div align="center">
@@ -434,16 +667,22 @@ width="100%"
 </div>
 
 
+
 <br>
+
 
 
 <div align="center">
 
 
-### ⭐ Thanks for visiting my profile!
-
-
+### ⭐ Thanks for visiting my profile!<br>
 ### 🚀 Keep Learning · Keep Building · Keep Growing
+
+
+<br>
+
+![Made with Love](https://img.shields.io/badge/Made_with-❤️-red?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-Solymanwasif-181717?style=for-the-badge&logo=github)
 
 
 </div>
