@@ -638,10 +638,9 @@ width="100%"
 
 
 <img
-src="https://raw.githubusercontent.com/Solymanwasif/Solymanwasif/output/github-contribution-grid-snake.svg"
+src="https://raw.githubusercontent.com/Solymanwasif/Solymanwasif/gh-pages/github-contribution-grid-snake.svg"
 alt="GitHub Contribution Snake"
 />
-
 
 </div>
 
