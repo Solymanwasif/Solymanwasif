@@ -102,19 +102,7 @@ const solyman = {
 <td width="60%" valign="top">
 
 
-# 🛠️ Tech Stack
 
-
-<div align="center">
-
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,mongodb,firebase,git,github,vscode,figma" />
-
-
-</div>
-
-
-<br>
 
 
 ## ⚡ Technologies I Work With
@@ -191,12 +179,15 @@ width="320px"
 
 
 <br><br>
+# 🛠️ Tech Stack
 
+<div align="center">
 
-## 🚀 Skills
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,mongodb,firebase,git,github,vscode,figma" />
 
+</div>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb" />
+<br>
 
 
 <br><br>
