@@ -213,7 +213,55 @@ width="100%"
 src="assets/natures-platter-hero.png"
 alt="Nature's Platter Hero"
 width="100%"
-/
+/>
+
+</div>
+
+<br>
+
+<table>
+<tr>
+
+<td width="30%" valign="top">
+
+### 💡 About the Project
+
+![Project Description](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono\&size=20\&duration=3500\&pause=1600\&color=00E5FF\&left=true\&vCenter=true\&width=330\&height=180\&multiline=true\&lines=Fresh-food+e-commerce;Built+with+HTML+CSS;JavaScript+Clean;responsive+UI+Real-world;web+development)
+
+<br>
+
+### 🛠️ Tech Stack
+
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+
+<br><br>
+
+[![Repo](https://img.shields.io/badge/📁_View_Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Solymanwasif/Nature-s-platter-shop)
+
+</td>
+
+<td width="70%" align="center" valign="middle">
+
+### 👀 Visual Preview
+
+<img
+src="assets/natures-platter-preview.gif"
+alt="Nature's Platter Preview"
+width="100%"
+/>
+
+<br>
+
+<sub>✨ Interactive project preview</sub>
+
+</td>
+
+</tr>
+</table>
+
+---
 
 # 🏆 Achievements
 
