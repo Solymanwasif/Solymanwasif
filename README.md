@@ -123,55 +123,33 @@ const solyman = {
 | MongoDB | `█░░░░░░░░░` 10% | 📅 Upcoming |
 
 
-</td>
 
-
-<td width="35%" align="center">
-
+<td width="35%" height="100px" align="center" valign="middle">
 
 <img
-src="assets/coding-title.svg"
-alt="Currently Coding"
-width="280px"
+  src="assets/coding-title.svg"
+  alt="Currently Coding"
+  width="280px"
 />
 
 
-<br>
-
-
 <img
-src="assets/coding.gif"
-alt="Coding Animation"
-width="280px"
+  src="assets/coding.gif"
+  alt="Coding animation"
+  width="280px"
 />
-
-
-<br>
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=4000&pause=1500&color=A371F7&center=true&vCenter=true&repeat=true&width=320&height=70&lines=💻+Building+everyday;🚀+Creating+real+projects;🧠+Learning+new+skills;🌱+Growing+as+a+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=4000&pause=1500&color=A371F7&center=true&vCenter=true&repeat=true&width=320&height=70&lines=💻+Exploring+web+tech+every+day;🚀+Building+real-world+projects;🧠+Learning+something+new+daily;🌱+Growing+through+each+project)](https://git.io/typing-svg)
 
 
 </td>
-
-
 </tr>
-
 </table>
 
+## 🚀 Featured Projects
 
----
-
-
-# 🚀 Featured Projects
-
-
-
-## 🎨 DevConf 2026 · AI CSS Enhancement Challenge
-
+### 🎨 DevConf 2026 · AI CSS Enhancement Challenge
 
 <div align="center">
-
 
 <img
 src="assets/devconf-hero.png"
@@ -179,60 +157,63 @@ alt="DevConf 2026 Hero"
 width="100%"
 />
 
-
 </div>
 
-
 <br>
-
 
 <table>
-
 <tr>
 
+<td width="30%" valign="top">
 
-<td width="35%" valign="top">
+### 💡 About the Project
 
-
-## 💡 Project Overview
-
-
-A conference-themed frontend website created to practice modern UI development, responsive layouts, and creative CSS implementation.
-
+![Project Description](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono\&size=20\&duration=3500\&pause=1600\&color=00E5FF\&left=true\&vCenter=true\&width=330\&height=180\&multiline=true\&lines=Conference-themed+frontend;Built+with+HTML+CSS;JavaScript+Modern;responsive+UI+Real-world;frontend+practice+.)
 
 <br>
 
+### 🛠️ Tech Stack
 
-## 🛠️ Technology Stack
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
 
+<br><br>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
+[![Repo](https://img.shields.io/badge/📁_View_Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Solymanwasif/b14-a1-ai-css-enhancement)
 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+</td>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<td width="70%" align="center" valign="middle">
 
+### 👀 Visual Preview
 
-<br>
-
-
-## ✨ Features
-
-
-✅ Responsive conference layout  
-
-✅ Modern UI components  
-
-✅ Interactive frontend elements  
-
-✅ Clean and maintainable code  
-
+<img
+src="assets/devconf-preview.gif"
+alt="DevConf Preview"
+width="100%"
+/>
 
 <br>
 
+<sub>✨ Interactive project preview</sub>
 
-## 📦 Dependencies
+</td>
+
+</tr>
+</table>
+
 ---
+
+### 🌿 Nature's Platter · Fresh Food E-Commerce
+
+<div align="center">
+
+<img
+src="assets/natures-platter-hero.png"
+alt="Nature's Platter Hero"
+width="100%"
+/
 
 # 🏆 Achievements
 
