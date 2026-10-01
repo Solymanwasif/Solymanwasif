@@ -561,25 +561,6 @@ width="100%"
 
 ---
 
-
-# 🐍 Contribution Snake
-
-
-<div align="center">
-
-
-<img
-src="https://raw.githubusercontent.com/Solymanwasif/Solymanwasif/output/github-contribution-grid-snake.svg"
-alt="GitHub Contribution Snake"
-width="100%"
-/>
-
-
-</div>
-
-
----
-
 # 🤖 Learning Philosophy
 
 
