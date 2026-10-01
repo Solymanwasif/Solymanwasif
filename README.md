@@ -97,3 +97,324 @@ const solyman = {
         "Think Differently · Solve Creatively · Learn Deep"
 
 };
+```
+
+# 📈 Learning Roadmap
+
+
+<table>
+
+<tr>
+
+<td width="65%" valign="top">
+
+
+| Skill | Progress | Status |
+| :--- | :---: | :---: |
+| HTML & CSS | `██████████` 100% | ✅ Mastered |
+| JavaScript | `█████████░` 95% | ✅ Strong |
+| TypeScript | `████████░░` 85% | 🟢 Active |
+| React Fundamentals | `████████░░` 80% | 🟢 Active |
+| React Hooks | `███████░░░` 75% | 🟢 Active |
+| API & Data Fetching | `██████░░░░` 60% | 🟡 Improving |
+| Node.js | `█████░░░░░` 50% | 🟡 Learning |
+| Next.js | `██░░░░░░░░` 20% | 📚 Exploring |
+| Express.js | `██░░░░░░░░` 20% | 📚 Exploring |
+| MongoDB | `█░░░░░░░░░` 10% | 📅 Upcoming |
+
+
+</td>
+
+
+<td width="35%" align="center">
+
+
+<img
+src="assets/coding-title.svg"
+alt="Currently Coding"
+width="280px"
+/>
+
+
+<br>
+
+
+<img
+src="assets/coding.gif"
+alt="Coding Animation"
+width="280px"
+/>
+
+
+<br>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=4000&pause=1500&color=A371F7&center=true&vCenter=true&repeat=true&width=320&height=70&lines=💻+Building+everyday;🚀+Creating+real+projects;🧠+Learning+new+skills;🌱+Growing+as+a+developer)](https://git.io/typing-svg)
+
+
+</td>
+
+
+</tr>
+
+</table>
+
+
+---
+
+
+# 🚀 Featured Projects
+
+
+
+## 🎨 DevConf 2026 · AI CSS Enhancement Challenge
+
+
+<div align="center">
+
+
+<img
+src="assets/devconf-hero.png"
+alt="DevConf 2026 Hero"
+width="100%"
+/>
+
+
+</div>
+
+
+<br>
+
+
+<table>
+
+<tr>
+
+
+<td width="35%" valign="top">
+
+
+## 💡 Project Overview
+
+
+A conference-themed frontend website created to practice modern UI development, responsive layouts, and creative CSS implementation.
+
+
+<br>
+
+
+## 🛠️ Technology Stack
+
+
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+
+<br>
+
+
+## ✨ Features
+
+
+✅ Responsive conference layout  
+
+✅ Modern UI components  
+
+✅ Interactive frontend elements  
+
+✅ Clean and maintainable code  
+
+
+<br>
+
+
+## 📦 Dependencies
+---
+
+# 🏆 Achievements
+
+
+<div align="center">
+
+
+| 🏅 | Achievement | Details |
+| :-: | :--- | :--- |
+| ⭐ | Programming Excellence | Completed multiple frontend assignments successfully |
+| 🚀 | Project Development | Built real-world frontend applications |
+| 🎨 | Responsive Design | Created mobile-friendly interfaces |
+| 📈 | Continuous Growth | Maintaining active GitHub development journey |
+| 🤖 | AI-Assisted Learning | Using AI as a learning partner for better problem solving |
+
+
+</div>
+
+
+---
+
+
+# 📊 GitHub Statistics
+
+
+<div align="center">
+
+
+<img
+src="assets/github-stats.svg"
+alt="GitHub Stats"
+width="60%"
+/>
+
+
+<br><br>
+
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com?user=Solymanwasif&theme=radical&hide_border=true&background=0d1117"
+alt="GitHub Streak"
+width="60%"
+/>
+
+
+<br><br>
+
+
+<img
+src="assets/top-langs.svg"
+alt="Top Languages"
+width="60%"
+/>
+
+
+</div>
+
+
+---
+
+
+# 🏅 GitHub Trophies
+
+
+<div align="center">
+
+
+<img
+src="assets/github-trophies.svg"
+alt="GitHub Trophies"
+width="100%"
+/>
+
+
+</div>
+
+
+---
+
+
+# 📡 Contribution Activity
+
+
+<div align="center">
+
+
+<img
+src="assets/activity-graph.svg"
+alt="GitHub Contribution Activity"
+width="100%"
+/>
+
+
+</div>
+
+
+---
+
+
+# 🤖 Learning Philosophy
+
+
+<div align="center">
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=4000&pause=1500&color=A371F7&center=true&vCenter=true&repeat=true&width=750&height=50&lines=🤖+AI+as+a+partner%2C+not+a+shortcut;💡+Understand+problems+before+solving;🔍+Keep+learning+through+building;✨+Improve+every+day+through+practice)](https://git.io/typing-svg)
+
+
+</div>
+
+
+---
+
+
+# 📫 Let's Connect
+
+
+<div align="center">
+
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reonsolymanwasif@gmail.com)
+
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Solymanwasif)
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_PROFILE)
+
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_LINK)
+
+
+<br><br>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&repeat=true&width=700&height=45&lines=⭐+Star+my+repositories+if+you+find+them+useful!;🚀+Let's+build+something+amazing+together!;💪+Every+expert+was+once+a+beginner)](https://git.io/typing-svg)
+
+
+</div>
+
+
+---
+
+
+<!-- Contribution Snake -->
+
+
+<p align="center">
+
+<img
+src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg"
+alt="GitHub Contribution Snake"
+width="100%"
+/>
+
+</p>
+
+
+
+<div align="center">
+
+
+<img
+src="assets/footer-wave.svg"
+alt="Animated Liquid Footer Wave"
+width="100%"
+/>
+
+
+</div>
+
+
+<br>
+
+
+<div align="center">
+
+
+### ⭐ Thanks for visiting my profile!
+
+
+### 🚀 Keep Learning · Keep Building · Keep Growing
+
+
+</div>
