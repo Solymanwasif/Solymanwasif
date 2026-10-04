@@ -99,7 +99,7 @@ const solyman = {
 <tr>
 
 
-<td width="60%" valign="top">
+<td width="60%" valign="center">
 
 
 
