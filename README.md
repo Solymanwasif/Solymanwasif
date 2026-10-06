@@ -462,13 +462,13 @@ width="100%"
 <div align="center">
 
 
-| 🏅 | Achievement | Details |
-| :-: | :--- | :--- |
-| ⭐ | Frontend Development | Built responsive and interactive web applications |
-| 🚀 | Real-world Projects | Developed projects using modern frontend technologies |
-| 🎨 | UI Development | Created clean and user-friendly interfaces |
-| 💻 | Problem Solving | Continuously improving programming skills |
-| 🤖 | AI-Assisted Learning | Using AI tools to improve development workflow |
+|  🏅 | Achievement           | Details                                                                        |
+| :-: | :-------------------- | :----------------------------------------------------------------------------- |
+|  ⭐  | Assignment Excellence | Successfully completed all 6 assignments with a perfect **60/60**              |
+|  📚 | Consistent Learning   | Actively learning frontend development and modern web technologies             |
+|  💻 | Programming Practice  | Building a strong foundation through hands-on assignments and coding exercises |
+|  🎨 | UI Development        | Practicing responsive and user-friendly interface development                  |
+|  🤖 | AI-Assisted Learning  | Using AI tools to understand concepts, solve problems, and improve learning    |
 
 
 </div>
